@@ -1,0 +1,1602 @@
+[
+  {
+    "example_id": "ef6f1050651a4c3ac9a53438ac1f87_8",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Since different users exhibit different mood scores on average [26] , by selecting instances from the top and bottom scores, one might end up separating users and convert the mood prediction task into a user identification one.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "c384f48d5f04ea8d63bbbb94a3b24b_14",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "(Pang and Lee, 2005) found that their metric labeling method, when applied to the 4-class data we are using, was not statistically better than regression, though they observed some improvement for authors (c) and (d).",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "d0fa481abaf6d1b5529e40ff73f00a_5",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "While this can lead to much faster convergence, the resulting models are shown to slightly underperform compared to annealing SGD (Wu et al., 2016) .",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "053ce92029e643bfade157b3172c05_0",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "In order to ease the process of engineering such a large grammar, we have made use of the lexical knowledge representation language DATR (Evans & Gazdar, 1996) to compactly encode the elementary trees (Evans et al., 1995; Smets & Evans, 1998) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "88900d3533701056f6a26bf7c68670_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Several learning systems have been developed for semantic parsing, many of them recently (Zelle and Mooney, 1996; Zettlemoyer and Collins, 2005; Ge and Mooney, 2005; Kate and Mooney, 2006) .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "008d5261ee7385a2b7e39772938f51_0",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "To compare our work with Athar (2011) , we also applied a three-class annotation scheme.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "237ac6f9b635e56119be956d7521e1_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "They usually employ a bidirectional LSTM (Hochreiter and Schmidhuber, 1997) with CRF as the output layer, and a CNN (Ma and Hovy, 2016) or LSTM (Lample et al., 2016; Rei et al., 2016) composes the character embeddings.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "99b26d9151c7c0a1df1df1300fc764_1",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Natural language processing (NLP) techniques such as Word2Vec [1, 2] and GloVe [3] transform words into fixed dimensional vectors, or word embeddings.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "8e0dcaec15a3b9c4947946a4e885c8_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "As stated, we compare against previous methods (Yin and Schütze, 2015; Bao and Bollegala, 2018 ) that use 2 distance, as shown in Equation 1).",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "2b5d8cab263c9edbe005674910a7b1_4",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Following Cai and Zhao (2016) and Zhang et al. (2016b) , we adopt a globally optimised beam-search framework for neural structured prediction (Andor et al., 2016; Zhou et al., 2015; Wiseman and Rush, 2016) , which allows word information to be modelled explicitly.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "14fa8c3b947667244d30dd30dae89a_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We take the Neural model of Chen and Manning (2014) as another baseline (Figure 1(b) ).",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "6e92b1fa4f3b78a099cb222b3eb9a9_3",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Details about the phone recognizer can be found in [2] .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "fd7bae08fd3e69744a3980daa1a649_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "When training the model, we resort to the heuristics proposed in (Mikolov et al., 2013b) to create artificial evidence for the negative examples (see Section 3.2 below).",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "59a7c1fffdd45f8e152d060a4b9f50_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "In Table 6 , we list the RTM test results for tasks and subtasks that predict HTER or METEOR from QET15, QET14 (Biçici and Way, 2014) , and QET13 (Biçici, 2013) .",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "ef6f1050651a4c3ac9a53438ac1f87_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "In order to examine this effect in both a regression and a classification setting, we have followed the experimental framework by Tsakalidis et al. [26] and Jaques et al. [9] .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "dcfd8cb0179ab156a6ffcab3358a45_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "AI has moved on from naming the entities in the image (Mei et al. 2008; Wang et al. 2009) , to describing the image with a natural sentence (Vinyals et al. 2015; Xu et al. 2015; Karpathy and Li 2015) and then to answering specific questions about the image with the advent of visual question answering (VQA) task (Antol et al. 2015) .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "7a2f56cb4bbcd09ba35934ca76c9a9_8",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Training Details: Following Sukhbaatar et al. (2015), we hold out 10% of the bAbI training set to form a development set.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "7f2622701e1f6c8492ec627b6ac32b_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "As explained in Section 5.1, we opted for [13] instead of [14] as baseline because the former system is stronger.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "cd56849805cdb43bba567f74b31b87_6",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "It is worth reminding that unlike other work on the PMB (e.g. van Noord et al., 2018), Liu et al. (2018) does not deal with presupposition.",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "a0db9c3a74487d3fcd11e79d44e163_13",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "As shown in Table 5 , a binary indicator to determine whether a quantity refers to a rate is adopted in many solvers [26] [28] [15] [40] [45] .",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "7c8f54479ce1f9d81b49839425f58e_13",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "InferSent results obtained with our implementation using the architecture and training set-up described in (Conneau et al., 2017) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "98eef9a1dbea3ddd0a8fd1b9c9376c_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "• negative examples N i,j,k associated with positive output word w i,k are selected randomly according to a probability distribution suggested in [23] ;",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "76476d80e1d3f65818592ec4caab0e_7",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "For evaluation metrics, we use accuracy of exact match and the BLEU score following Yin and Neubig (2017) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "bb5e6e32d7e507bc6d943719c02902_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Here we regularize and sparsify all layers following [1] .",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "5e34591c2a7b1664e1275372c40b79_4",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "While relation extraction systems exploit rich and complex features that are necessary to extract the exact relation (Mintz et al., 2009; Riedel et al., 2010; Hoffmann et al., 2011) , passage retrieval components use coarse features in order to provide different and complementary feedback to information extraction models.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "0fd26c6dffab3fba2d120d2c58dff6_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Recently, [7, 18] combined acoustic information and conversation transcripts using a neural network-based model to improve emotion classification accuracy.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "586a0f40a9299ef2753d2b0575eff8_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "For comparison purposes, we utilize the same test set with 40 newswire articles (672 sentences), the same development set with 30 other documents (836 sentences) and the same training set with the remaning 529 documents (14,849 sentences) as the previous studies on this dataset (Ji and Grishman, 2008; Liao and Grishman, 2010; Li et al., 2013b) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "52b9efca757fe5a376ca6b548d77ce_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The mean-filed bound of the Bhattacharyya kernel is very similar to the KL divergence kernel (Jebara et al., 2004) which is frequently used in verb clustering experiments (Korhonen et al., 2003; Sun and Korhonen, 2009) .",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "bb5e6e32d7e507bc6d943719c02902_7",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "In [1] , SparseVD is adapted to the RNNs.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "87af486eb2e968d2055eeab094b3f9_9",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Following the experimental design of [8] , we conduct experiments on three different learning objectives: CAP2ALL, CAP2CAP, CAP2IMG.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "8075c3716c0be601a769ccd53b0c5e_6",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "In a procedure similar to that described above, Hirschberg and Litman rst classi ed and described each of the 48 tokens.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "7ce85e3c3f58cee33015409b74f99e_12",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "All of them include the pos-tagged target words used in the three datasets (i.e. MEN, WordSim-353 and SimLex-999) and the pos-tagged contexts having frequency above 100 in the two corpora.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "8c202e3610599c9eee23724ef213de_7",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "2 Park and Cardie (2014) and Park et al. (2015) used this corpus for examining each proposition with respect to its verifiability to determine the desirable types of support for the analysis of arguments.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "c067711a58722737ef8b7ea987bcf3_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We employ a recurrent sequence-to-sequence neural network with attention (Bahdanau et al., 2014) and two bi-LSTM layers, similar to the one used by Van Noord, Abzianidze, Toral, and Bos (2018) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "f8c992a887a7b7af8b3aa45f72dca7_8",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The AA system described in Yannakoudakis et al. (2011) exploited features based on POS tag sequences, but did not consider the distribution of POS types across grades.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "7b69c68a602e90c7ee7b9fa8a8facf_0",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We wish to apply this direct, Bayesian approach to learn better translation rules for syntaxbased statistical MT (SSMT), by which we specifically refer to MT systems using Tree-to-String (TTS) translation templates derived from syntax trees (Liu et al., 2006; Huang et al., 2006; Galley et al., 2006; May and Knight, 2007) , as opposed to formally syntactic systems such as Hiero (Chiang, 2007) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "8075c3716c0be601a769ccd53b0c5e_18",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Ambiguous, the last value of A, is assigned when the prosodic anal- ysis of (Hirschberg & Litman 1993 ) is a disjunction (e.g., \\H*+L or H*\").",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "b1c9b8e24916b136948610383f8ea2_1",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Hence, there has been a massive increase in work on MT systems that involve more than two languages (Dong et al., 2015; Firat et al., 2016a; Cheng et al., 2017; Johnson et al., 2017; Chen et al., 2017 Neubig and Hu, 2018) etc.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "8075c3716c0be601a769ccd53b0c5e_28",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "An examination of Table 2 shows that the error of the best C4.5 and cgrendel rulesets was often lower than 21% (even for theories which did not consider the token), as was the 19.1% error of the textual model of (Hirschberg & Litman 1993) .",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "d4563562cd0dfd8ef6cdb57117fb22_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Following the work of Church and Hanks (1990) in learning word associations via mutual information, and the DIRT system introduced by Lin and Pantel (2001) , Chambers and Jurafsky (2008) propose a PMI-based system for learning script-like structures called narrative chains.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "cf7d01faf555f09973e44be400e768_2",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We will show case a recent study (Wang et al., 2018b ) that leverages hierarchical deep reinforcement learning for language and vision, and extend the discussion.",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "fe539365c7bb4555280fd1a5478aba_5",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "In Table 4 we can observe the indirect comparison of our results with those of (Banerjee and Chua, 2014) and (Ren et al., 2014) obtained with a 10 fold cross validation experiment, and then, with a 5 fold cross validation in order to make a fair comparison with the results of (Ott et al., 2011) and (Feng and Hirst, 2013) .",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "bead17ef9512f960461b681a78be4c_10",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "To use the terminology in Bolukbasi et al. (2016) , RIPA is the scalar projection of a word vector onto a onedimensional bias subspace defined by the unit vector b. In their experiments, Bolukbasi et al. (2016) defined b as the first principal component for a set of gender difference vectors (e.g., man − woman).",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "bb74dd634a8fc5cdb2f4f3294b6bc5_14",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "In the experiment, we use the same datasets as LSC [2] used.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "88900d3533701056f6a26bf7c68670_3",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Learning System KRISP (Kernel-based Robust Interpretation for Semantic Parsing) (Kate and Mooney, 2006 ) is a supervised learning system for semantic parsing which takes NL sentences paired with their MRs as training data.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "4f646eceef2e5fc447a367488b6aaf_11",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "To enable agent interaction with these panoramas, Anderson et al. [4] developed the Matterport3D Simulator.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "918caabbc0bcad04cd07761b29e767_1",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Zhang and Lee (2003) used the same taxonomy as Li and Roth (2002) , as well as the same training and testing data.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "e6fe4c6c32294072dbc1ee5bb0a606_3",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "In [1] , the top level loss is derived by integrating frame-level losses, which are computed using frame-level labels from LVCSR.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "918caabbc0bcad04cd07761b29e767_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Li and Roth (2002) use a Sparse Network of Winnows (SNoW) to classify questions with respect to their expected answer type.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "0751f2ced4f7ced37cf206fea051fa_4",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Comparatively, the best result that (Sánchez and Benedí, 2006b) reported in the Spanish-English task was a BLEU score of 23.0, which they obtained by combining segments extracted from both the bracketed and the non-bracketed corpus.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "183cf87042a3ad2180ead67555d247_3",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Various pre-training tasks were explored including traditional NLP tasks like machine translation (Mc-Cann et al., 2017) and language model (Peters et al., 2018; Radford et al., 2018 Radford et al., , 2019 , or other tasks such as masked language model and next sentence prediction (Devlin et al., 2019) .",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "78afdf391c70d7992200b4071e4ac2_6",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Bonial et al. (2014) conducted a pilot study re-annotating 138 CPs involving the verb take.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "7a2f56cb4bbcd09ba35934ca76c9a9_13",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "As a large variance can be observed due to how sensitive memory-based models are to parameter initialisation, following (Sukhbaatar et al., 2015) and (Liu and Perez, 2017) , we repeat each training 10 times using the Table 4 : Per-response accuracy on the Dialog bAbI tasks.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "45723171ec398550e687c57d42e7cc_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The social media mining for health applications (SMM4H) shared task (Weissenbacher et al., 2018) hosts four tasks aiming to identify mentions of different aspects medication use on Twitter.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "8ef47e16cd41aa3a606cf21c41adb7_2",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "The heuristics are evaluated within the template-based abstractive summarization system of Oya et al. (2014) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "0143619c1c54129702aafb585463d2_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "While useful, citation texts might lack the appropriate context from the reference article [4, 5, 18] .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "90604f1ab33aafff682df0556aaa4e_0",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Top row: baseline approach by Zellers et al. [18] .",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "d68bb5264d157cc4c2d9fa9c8f82b6_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "This continual change and diversity contrasts with the simplicity and consistency of Zipf's law, by which the frequency a word, f , is inversely proportional to its rank k, as f ∼ k −γ and Heaps law, by which vocabulary size scales sub-linearly with total number of words, across diverse textual and spoken samples [32, 41, 46, 49, 15, 21, 48, 42] .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "808e0a94b877182dc06447c8682a63_3",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "3 Surface n-gram Features Bansal and Klein (2011) demonstrate that features generated from bucketing simple surface n-gram counts and collecting the top paraphrase-based contextual words over Web1T are useful for almost all attachment decisions, boosting dependency parsing accuracy by up to 0.6%.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "966106c9e00f0333bda45d977a9f35_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "The baseline model with 4 encoder layers and 3 decoder layers was trained using nag optimizer (Gehring et al., 2017 ) with a learning rate of 0.25 with 0.2 as its dropout value and gradient clipping was also applied.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "7ce85e3c3f58cee33015409b74f99e_6",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "According to Hill et al. (2015) , the major weakness of this dataset is that it does not encode word similarity, but a more general notion of association.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "14fa8c3b947667244d30dd30dae89a_11",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We test the effect of dropout (Hinton et al., 2012) during training, using a default ratio of 0.5 according to Chen and Manning (2014) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "d9567072d2df6c0010b32e1d1eb676_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "• N-gram overlap: Press et al., 2017) : Inspired by BLEU (Papineni et al., 2002) , this measures whether n-grams generated by the model appear in a held-out corpus.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "21c2160667b3ff919e39285cd1ece7_13",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "In contrast, for Malt, Ambati et al. (2013) had shown that coarse-grained supertags gave larger improvements of 0.3% and 0.4% in UAS and LAS respectively.",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "087a2a35ad2428d6b17c6906447349_7",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Pre-vious work on bridging anaphora resolution (Poesio et al., 2004; Lassalle and Denis, 2011; Hou et al., 2013b ) explored word co-occurrence counts in certain syntactic preposition patterns to calculate word relatedness.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "013f0e54384a8a4662a746eb4c30d9_8",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Our baseline are contextual string embeddings without pooling, i.e. the original setup proposed in Akbik et al. (2018) 2 .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "fa641aca676761c79c0469c195f336_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "They observed that English readability formulas did not work well on Bengali texts [11] , [21] .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "b1c9b8e24916b136948610383f8ea2_6",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Mini-batches can be comprised of a mix of samples from different language pairs (Johnson et al., 2017) or the training schedule can cycle through mini-batches consisting of a language pair only (Firat et al., 2016a) .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "13fe4afa75c5a02727cb8ce3a73297_7",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Story Generation: Recent work in neural story generation (Kiros et al., 2015; Roemmele, 2016) has shown success in using hierarchical methods (Yao et al., 2018; Fan et al., 2018) to generate stories.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "ff7bafb8f21118ca3c908603ef32d0_12",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Also, only the ngrams with frequency greater than 5 were retained in the feature set following Boulis and Ostendorf (2005) .",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "57e65909baf823ff00a9a10a64fffd_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Our study focuses on racial bias in hate speech and abusive language detection datasets (Waseem, 2016; Waseem and Hovy, 2016; Golbeck et al., 2017; Founta et al., 2018) , all of which use data collected from Twitter.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "10319b67b6fcc1870791cf67b39299_21",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We show the target language words with the highest hubness using our method and Artetxe et al. (2017) for English-German with a 5,000 seed lexicon and the full vocabulary in Table 3 .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "f6694f359ae948b6e4563b927a672c_5",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "As it can be seen, the method by Xing et al. (2015) performs better than that of Mikolov et al. (2013b) in the translation induction task, which is in line with what they report in their paper. Moreover, thanks to the orthogonality constraint their monolingual performance in the word analogy task does not degrade, whereas the accuracy of Mikolov et al. (2013b) drops by 2.86% in absolute terms with respect to the original embeddings.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "967c78ccf905c69d732a4c1ef00289_9",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We follow Nguyen and Grishman (2016) to set the position and entity type embedding size to be 50.",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "21c2160667b3ff919e39285cd1ece7_4",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "They provided CCG categories from a supertagger as features to Malt and obtained overall improvements of 0.3% and 0.4% in unlabelled and labelled attachment scores respectively.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "bebcad79900e9a4a25020ed0d886b5_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "(Gulordava et al., 2018 ) also consider subject-verb agreement, but in a \"colorless green ideas\" setting in which content words in naturally occurring sentences are replaced with random words with the same partof-speech and inflection, thus ensuring a focus on syntax rather than on selectional-preferences based cues.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "00a2e4d0cacfb1fb7098bd324d960a_9",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "The top row ( †) represents MoS scores reported in Yang et al. (2018) as a baseline.",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "087a2a35ad2428d6b17c6906447349_16",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Following Hou et al. (2013b) , we measure accuracy on the number of bridging anaphors, instead of on all links between bridging anaphors and their antecedent instantiations.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "4f646eceef2e5fc447a367488b6aaf_2",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "In this work, we focus in on the Vision-and-Language Navigation (VLN) [4] task and lift these implicit assumptions by instantiating it in continuous 3D environments rendered in a high-throughput simulator [19] .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "1c51e45e2917268e0ab5ce43a69655_15",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Waseem and Hovy (2016) and Ross et al. (2016) focus on building corpora which they annotate for containing hate speech.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "05bf376f0a18cf313ead7189b029b6_11",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "For a more detailed survey, see (Chiu and Nichols, 2016) .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "bebcad79900e9a4a25020ed0d886b5_5",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Gulordava et al. (2018) also start with existing sentences. However, in order to control for the possibillity of the model learning to rely on \"semantic\" selectional-preferences cues rather than syntactic ones, they replace each content word with random words from the same part-ofspeech and inflection. This results in \"coloreless green ideas\" nonce sentences.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "b56e408c53636ac5fbf5149226319f_3",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Recently, Miwa and Bansal (2016) proposed an end-to-end LSTM based sequence and treestructured model.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "4bc12aca138835b5ed80b0cf69febf_9",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "For BERT baselines, we use the process in Devlin et al. (2018) , and use the [CLS] token, without attention, for classification.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "ef6f1050651a4c3ac9a53438ac1f87_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "In order to overcome these issues, previous work [2, 5, 9, 10, 22, 26] has combined the instances {X uj i , y uj i } from different individuals u j and performed evaluation using randomised cross validation (MIXED).",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "b3952c840ce970f0e66460ea6e145a_21",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "As we can see in Table 8 , ELMo [33] was one of the methods that were able to achieve high performance on a broad set of different tasks.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "c54a1aba5845a52f468cde916c970b_4",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We employ several metrics for assessing specific aspects of our model, drawn from previous work: • Per-Response Accuracy: Bordes and Weston (2016) report a per-turn response accuracy, which tests their model's ability to select the system response at a certain timestep.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "1b424cab4d7008997a31be8c2e5198_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Most notably, for the natural language inference task, augmenting the hypothesis (u) and premise (v) representations with |u−v| and u · v considerably improves performance in a siamese architecture Mou et al. (2016) .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "e9e733d38affa8a39a633ffb4d9d71_13",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Our experiments in line with the measures reported in Krishna et al. (2016) show that our system performs robustly across strings of varying word size.",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "0984f12a6fea858c7f18263cc2fb01_4",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "The descriptions were collected as similarly as possible to the original Flickr30K dataset by translating the instructions used by Young et al. (2014) into German.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "caa0ffb1d4e3e5310a28b921333d1e_17",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Following (Devlin et al., 2018) , we use a batch size of 32 and 3-epoch fine-tuning over the data for all GLUE tasks.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "c7e304499654516cce43c550256eae_3",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Parallel data therefore appears to be the most realistic additional source of information for developing NLP systems in low-resource languages (Yarowsky and Ngai, 2001; Täckström et al., 2013; Fang and Cohn, 2016; Zhang et al., 2016) .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "06917a1dd02d55c827e7e07eeae2da_16",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Following (Ghosh et al., 2011) and (Lin et al., 2012) , argument initial and final punctuation marks are removed; and precision (p), recall (r) and F 1 score are computed using the equations 1 -3.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "918caabbc0bcad04cd07761b29e767_7",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The results in this paper indicate that some of the results found in previous work (Li and Roth, 2002; Zhang and Lee, 2003; Hacioglu and Ward, 2003) on question classification might be incorrect due to an unbiased training and test corpus.",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "4cb16f436d910d82c3661052c1fa30_7",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "The clusterization algorithms that we implemented to evaluate in comparison with our method are (Luo et al., 2004) 's Belltree and Link-Best (best-first clusterization) from (Ng and Cardie, 2002) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "27be8a173136e48a15f637278fd831_16",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Because temporal relations were shown not helpful for argument mining tasks (Biran and Rambow, 2011; Stab and Gurevych, 2014b) , we exclude them here.",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "dcfd8cb0179ab156a6ffcab3358a45_1",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "A number of datasets on visual question answering have been introduced in recent years (Malinowski and Fritz 2014; Ren, Kiros, and Zemel 2015) , among which (Antol et al. 2015) in particular has gained the most attention and helped popularize the task.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "2d3ec2e77947cb23af773926ec917b_25",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Finally, to compare two datasets, we used the Pearson product-moment correlation coefficient between our dataset and the dataset of Kajiwara and Yamamoto (2015) against the annotated data.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "c022b7cf4568e26c7408a835eaafb7_5",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We also compare against model combination using our reimplementation of Sagae and Lavie (2006) .",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "e9e733d38affa8a39a633ffb4d9d71_5",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Such tools are put to use by some of the existing systems (Krishna et al., 2016; Mittal, 2010 ) to obtain additional morphological or syntactic information about the sentences. This limits the scalability of those systems, as they cannot handle out of vocabulary words. Scalability of such systems is further restricted as the sentences often need to undergo linguistically involved preprocessing steps that lead to human in the loop processing. The systems by Krishna et al. (2016) and Krishna et al. (2017) assume that the parser by Goyal et al. (2012) , identifies all the possible candidate chunks.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "e8c60c9fc3a2d74df632f3b423adae_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We compare our model with the RvNN models presented in (Socher et al., 2013) , as we directly replaced the tensor-enhanced composition layer at each tree node with a S-LSTM memory block.",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "580713b57ae47692af0d0c86a07fd1_25",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Miwa and Bansal (2016) exploit the shortest dependency path, which can make the distance between two entities closer compared with their sequential dis-tance, thus facilitating relation extraction.",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "06917a1dd02d55c827e7e07eeae2da_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "In (Ghosh et al., 2011 ) the decision is made on tokenlevel, and the problem is cast as sequence labeling using conditional random fields (CRFs) (Lafferty et al., 2001) .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "b7e0879c4cac85054870146e61aa6f_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "T 20 T 50 T any Navigation + VQA PACMAN (BC) [5] 48 BOW-CNN VQA-Only 56.5 Table 1 : We compare to the published results from [6] for agent spawned at various steps away from the target: 10, 30, 50, and anywhere in the environment.",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "f32bbd580d93f77ef764c5341b93db_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "But other network architectures such as RNN-LM [13] can also be used here.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "cc66b46b34a0d716414e8b845707f9_7",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We report the performance of content selection and surface realization using F-1 and two BLEU scores (standard sBLEU and the customized cBLEU of Angeli et al. (2010)), respectively (Sec. 5).",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "08c64c92b77dbd9e999092a2fec3d1_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "An important milestone, the approach of Wang et al. (2014a) solves issue (1) by jointly embedding entities, relations, and words into the same vector space and hence is able to deal with words/phrases beyond entities in KBs.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "7e73137c97a84fe7fa4941ecd06a91_3",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "(A graphical representation of a portion of the LCC ATH is presented in Figure 1 .) The UIUC answer type hierarchy (Li and Roth, 2002) We feel that the time is right for work in ATD to move beyond the UIUC ATH and to begin to tackle problems of organizing and learning answer type hierarchies that encompass several hundreds of diverse expected answer types.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "586a0f40a9299ef2753d2b0575eff8_7",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Table 3 compares the performance of CNN1 and the feature-based systems in a more realistic setting, where entity mentions and types are acquired from an automatic high-performing name tagger and information extraction system (Li et al., 2013b) .",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "373795850c8f182051214a8ee09461_1",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Furthermore, we zoom into factors that might influence the quality of predictions, such as lexical and empirical target properties (e.g., ambiguity, frequency, compositionality); and filters to optimise the visual space, such as dispersion and imageability filters (Kiela et al., 2014) , and a novel clustering filter.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "f3c2c538019b1d9daa8e6c932d9826_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "In recent works, short phrases [11, 4] , images [3] or summaries [19] have been used as alternatives.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "5e34591c2a7b1664e1275372c40b79_12",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We define S e as the sentences where some system extracted a relation and S F as the sentences that match the arguments of a fact in ∆. The sentential precision and recall is computed on a randomly sampled set of sentences from S e ∪ S F , in which each sentence is manually labeled whether it expresses any relation in R. Figure 3 shows the precision/recall curves for MULTIR with and without pseudo-relevance feedback computed on the test dataset of 1000 sentence used by Hoffmann et al. (2011) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "e7b1c00e747f5bfbb96499d7223496_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The work introduced in Lazaridou et al. (2015) sought to address many of the drawbacks of these models.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "9684063f991f9a4688d6530fe5a16c_7",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "In order to reduce the differences between positive and negative instances in the data, Yang et al. (2015) used two constraints when collecting negative instances.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "7404a4e4e23eea9663b580f9959689_1",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "The data used is divided according to the experimental runs that were specified for the NEWS 2009 shared transliteration task (Li et al., 2009 ): a standard run and non-standard runs.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "dbe1f1bdf7d94824f6f7cd176a4f6d_6",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "We use the Berkeley parser to parse all of the data (Petrov et al., 2006 too little data, 50-dimensional WSJ-trained word vectors have previously been shown to be the most effective in this task (Ji and Eisenstein, 2015) .",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "21c2160667b3ff919e39285cd1ece7_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Conversely, Ambati et al. (2013) showed that a Hindi dependency parser (Malt) could be improved by using CCG categories.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "f2b9a5633600cdf787111841bf9ce6_1",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Recently, several variations of convolutional neural networks (CNNs) [7] have been shown to achieve high accuracy on text categorization (see e.g., [3, 4, 9, 1] and references therein) in comparison with a number of methods including linear methods, which had long been the state of the art.",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "580713b57ae47692af0d0c86a07fd1_19",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "For the ACE05 dataset, we follow Li and Ji (2014) and Miwa and Bansal (2016) , splitting and preprocessing the dataset into training, development and test sets.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "c2952b2da147d5f128cdbd5d8074a5_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Gonen and Goldberg (2019) contest the approaches to debiasing word embeddings presented by Bolukbasi et al. (2016b) and Zhao et al. (2018) , arguing that while the bias is reduced when measured according to its definition, i.e., dampening the impact of the general gender direction in the vector space, \"the actual effect is mostly hiding the bias, not removing it\".",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "c856f5ce5d2cdcfc71027d6fa4c6b3_9",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "The test materials were extracted from the 1997-1998 corpus following the guidelines given in Choi (2000) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "fd50c8cf386e3ce8c8dd8dc46c467f_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "The datasets we use to construct humor recognition experiments includes four parts: Pun of the Day (Yang et al., 2015) , 16000 OneLiners (Mihalcea and Strapparava, 2005) , Short Jokes dataset and PTT jokes.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "013f0e54384a8a4662a746eb4c30d9_1",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Recently, Akbik et al. (2018) proposed a character-level contextualized embeddings ap- context.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "206b65ee4e69a01e8a0892dc0f2b30_4",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Following Plank and Moschitti (2013) , we assume that we only have labeled data in a single source domain but no labeled as well as unlabeled target data.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "604807137ee5d9a6775821496c6af5_2",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We leverage one of the widely used structural correspondence learning (SCL) approach (Blitzer et al., 2007) to compute shared representations.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "20330d309c218dc2e1521b9644ed9c_4",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Furthermore, our proposed formulation highlights naturally the main components of Transformer's attention, enabling a better understanding of this mechanism: recent variants of Transformers (Shaw et al., 2018; Huang et al., 2018b; Dai et al., 2019; Child et al., 2019; Wang et al., 2018; Tsai et al., 2019a) can be expressed through these individual components.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "f34768f61dd3d95648ad9a70e83d2c_19",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Results are compared to baselines [28, 29, 39] and variants of our models.",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "ce8997b630e9544b0f5812be319a59_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Following prior work (Lau et al., 2018), we generate words in each line in reverse order (i.e. right to left), and begin generation with the last line first.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "7ce85e3c3f58cee33015409b74f99e_7",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "SimLex-999 is the dataset introduced by Hill et al. (2015) to address the above mentioned criticisms of confusion between similarity and association.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "5f25b6a3bcaca2e4beb59ce0f3eb5f_4",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Formalised in (Manion and Sainudiin, 2014) , this run can act as a baseline to gauge any improvement for Run2 and Run3 that apply the iterative approach.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "604807137ee5d9a6775821496c6af5_1",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "During generalization, it learns shared common representation (Blitzer et al., 2007; Ji et al., 2011; Pan et al., 2010) which minimizes the divergence between two collections.",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "2adb3a645a57b8f441a80bb5a46045_4",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The eight annotators that classified each tweet in the study by Mohammad et al. (2017) were employed through a crowdsourcing platform, which was made possible by that the stance targets were chosen with the criterion that they should be commonly known in the United States.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "2407cfa8572ccbab7f9a081f45a4ad_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Recent work by Khapra et al. (2009) has shown that it is possible to project the parameters learnt from the annotation work of one language to another language provided aligned Wordnets for two languages are available.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "8c202e3610599c9eee23724ef213de_6",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "In online argumentative discourse, claims often serve as implicit arguments with inappropriate or missing justification (Park and Cardie, 2014) .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "c856f5ce5d2cdcfc71027d6fa4c6b3_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "This experiment was based on the procedure and test materials designed by Choi (2000) , which was also used by several authors as a benchmark for comparing segmentation systems (Brants et al. 2002; Ferret 2002; Kehagias et al. 2003; Utiyama and Isahara 2001) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "20330d309c218dc2e1521b9644ed9c_24",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Other than manipulating the kernel choice of the non-positional features, we fix the configuration by Vaswani et al. (2017) for NMT and the configuration by Dai et al. (2019) for SP.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "bb5e6e32d7e507bc6d943719c02902_9",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Since in text classification tasks, usually only a small number of input words are important, we use additional multiplicative weights to sparsify the input vocabulary following Chirkova et al. [1] .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "0a7710557d020087035f4a94b5661c_7",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "While the Hindi projected treebank was obtained using the method described in section 4, Bulgarian and Spanish projected datasets were obtained using the approach in (Ganchev et al., 2009) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "9340338e7cf8ff8de4db84b462dfe5_4",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Although the range of claims is limited, the system is a fieldtested prototype and has been evaluated on a published data set (Vlachos and Riedel, 2015) and on real-world claims presented as part of the HeroX fact checking challenge.",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "cce566b9111abdc7ab7576662922dd_4",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "In our previous work (Tsai, 2005) , a wordpair (WP) identifier was proposed and shown a simple and effective way to improve Chinese input systems by providing tonal and toneless STW accuracies of 98.5% and 90.7% on the identified poly-syllabic words, respectively.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "db42e01dbc86b77335a0e488ff85e2_5",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "All proposed architectures including the base Transformer model [3] are trained over the International Workshop on Spoken Language Translation (IWSLT) 2016 corpus and tested similarly over the IWSLT 2014 test corpus [15] .",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "7700b6c3c096d5cd7999c34e7614f7_7",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "To apply the model to discover the underlying taxonomy from a given set of categories, we first obtain the marginals of z by averaging over the samples generated through eq 3, then output the optimal taxonomy z * by finding the maximum spanning tree (MST) using the Chu-Liu-Edmonds algorithm (Chu and Liu, 1965; Bansal et al., 2014) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "4d2488844c1f6f39f1f4b8f3487288_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "In Kawahara et al. (2014) , two identical DPMM's were used.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "91e4fd2556d4a04e477ea97208b218_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "In the first experiment, we compare our end-to-end system with the previous state-of-the-art method (Serban et al., 2016) on Freebase (Bollacker et al., 2008) , a domain-general KB.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "4cc18724e62db32e748838080cbfd0_7",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "To the best of our knowledge, (Lee and Dernoncourt, 2016; Ortega and Vu, 2017; Tran et al., 2017) are the latest approaches in dialog act classification, which also reported on the same data splits.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "4588d13c734d1ca0f348e056b1d39e_5",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We use the same data split as in Lin et al. (2017) , i.e., 500,000 samples for training, 2,000 for development, and 2,000 for testing.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "730738d63cabcd4e63ec4300a8091b_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "For further evidence, we add rich non-local features in the same increments as Zhang and Nivre (2011) to both ZPar and MaltParser, and evaluate UAS on the same development data set.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "27be8a173136e48a15f637278fd831_13",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Stab and Gurevych (2014b) used predicted label of argument components as features for both training and testing their argumentation structure identification model.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "9bab4741e6b9f132c2851bae3a3cf4_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The learning algorithms applied including: decision tree, decisionlist [15] , neural networks [7] , naïve Bayesian learning ( [5] , [11] ) and maximum entropy [10] .",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "3d99ad1ba1696c8ef743f233530601_1",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Many approaches have been used in DP, the majority of them using machine learning algorithms, such as probabilistic models (Soricut and Marcu, 2003) , SVMs (Reitter, 2003; duVerle and Prendinger, 2009; Hernault et al., 2010; Feng and Hirst, 2012) and dynamic conditional random field (Joty et al., 2012) .",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "98eef9a1dbea3ddd0a8fd1b9c9376c_11",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "These include the original open source implementation of word2vec [23] , as well as those of Medallia [22] , and Rehurek [28] .",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "310272015a781b05c42015c0559b18_11",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "4 Secondly, we compare the use of a global threshold (described in more detail in Section 2.3, below) to Brent's (1999a) use of the local context (as described in Section 1.3 above).",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "e7b1c00e747f5bfbb96499d7223496_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "These types of vector representations are particularly desirable for the way in which they better model the grounding of perceptual or semantic concepts in human vocabulary (Lazaridou et al., 2015; Glenberg & Robertson, 2000; ).",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "6ed955baf28ad1c7fd6d590e660c20_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "3 Alignment with logical clues Tian et al. (2014) proposed a way to generate onthe-fly knowledge to fill knowledge gaps: if H is not proven, compare DCS trees of T and H to generate path alignments (e.g. blamed for death ∼ cause loss of life, as underscored in Figure 1) ; evaluate the path alignments by a similarity score function; and path alignments with a score greater than a threshold (0.4) are accepted and converted to inference rules.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "41a23b1ae47d83315a047497691117_17",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The Caliskan Tests are detailed in Caliskan et al. [5] , and the double bind tests are detailed in May et al. [21] .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "dd603c79f87e98d23f6f8e13028ae9_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We present a series of experiments based on the Machine Translation of Noisy Text (MTNT) data set (Michel and Neubig, 2018 ) through which we demonstrate improved resilience of a vanilla MT system by adaptation using artificially noised data.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "98eef9a1dbea3ddd0a8fd1b9c9376c_18",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "The first column shows results for the single machine implementation of [23] , the second for a 'low parallelism' configuration of our system using 50 Spark executors, minibatch size of 1, and 1 thread per executor, and the third column for a 'high parallelism' configuration again with 50 executors, but with minibatch size increased to 50 and 8 threads per executor.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "b7e0879c4cac85054870146e61aa6f_4",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Following Das et al. [6] , we report the agent's top-1 accuracy on the test set when spawned 10, 20 and 50 steps away from the goal, denoted as T 10 , T 20 and T 50 respectively.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "1fd85a350d9ec7ac12151cfe4412e4_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We implement the N-gram match reranker as given by Dušek and Jurcicek (2016a) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "cffa735deb802118640005a1d527ee_1",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "To calculate the disagreement among the committee members several metrics have been proposed including the vote entropy (Engelson and Dagan, 1996) as possibly the most well-known one.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "d0fa481abaf6d1b5529e40ff73f00a_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "7 Learning rates of 0.5 for SGD and 0.0002 for Adam or very similar are shown to work well in NMT implementations including GNMT (Wu et al., 2016) , Nematus, Marian, and OpenNMT (http://opennmt.net).",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "375b9c865d9f1b559387aa01a20a78_5",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "As baseline systems, we use C-BOW, Skipgram (Mikolov et al., 2013) , Subword Information Skip-gram (SISG) (Bojanowski et al., 2017) and Segmentation-free word embedding for unsegmented languages (Sembei) (Oshikiri, 2017) for the word-level tasks.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "7f2622701e1f6c8492ec627b6ac32b_13",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Consequently, we have chosen system [13] as baseline in this study since is using the stronger GSS configuration.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "2b25e38db7fd20c92d677b73af110c_20",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "For regularization, we applied residual and attention dropout [2] of 0.9 in processing layers and of 0.8 in the reduction layer.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "fe539365c7bb4555280fd1a5478aba_3",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "From the 800 positive reviews (Ott et al., 2011) , the 400 truthful where mined from TripAdvisor 5-star reviews about the 20 most popular hotels in Chicago area.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "7ce85e3c3f58cee33015409b74f99e_23",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Concerning the discrimination between similarity and association, the good performance of APSyn on SimLex-999 (which was built with a specific attention to genuine similarity) and the large difference in performance between the two subsets of WordSim-353 described in Table 3 and Table 4 make us conclude that APSyn is indeed efficient in quantifying genuine similarity.",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "c60a1131c6b1639b772b0e5c59588e_9",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "PRA-SVO and PRA-VS are the systems proposed in (Gardner et al., 2013) and (Gardner et al., 2014) respectively, where the KB graph is augmented with edges mined from a large subject-verb-object (SVO) triple corpus.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "e7b1c00e747f5bfbb96499d7223496_5",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The multimodal skip-gram architecture proposed by Lazaridou et al. (2015) takes a more fine-grained approach by incorporating word-level visual context and concurrently training words to predict other text words in the window as well as their visual representation.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "4a90cd18be0df0c41a94febe2f68ef_10",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Dataset We consider the reading comprehension benchmark that requires Discrete Reasoning Over Paragraphs (DROP) (Dua et al., 2019) prehensive understanding of the context as well as the ability of numerical reasoning are required.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "2b25e38db7fd20c92d677b73af110c_2",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "• Reduction layer: a new layer design that fits the pipeline proposed by Vaswani et al. [2] and compresses the input embedding size for subsequent layers (this is especially beneficial when employing pre-trained embeddings).",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "faeac0a0e3c0cad79d39dea04ec59a_5",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Furthermore, while some argue that detailed guidelines can help annotators to make more subtle distinctions (Davidson et al., 2017) , others find that they do not improve the reliability of non-expert classifications (Ross et al., 2016) .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "87af486eb2e968d2055eeab094b3f9_11",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Adhering to the experimental settings of [8] , we concatenate sentence representations produced from our model with those obtained from the state-of-the-art unsupervised learning model (Layer Normalized Skip-Thoughts, ST-LN) [33] .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "3e86788379f2c0074ff16687d68fc9_6",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "In Korean, there are four basic phrases: noun phrase (NP), verb phrase (VP), adverb phrase (ADVP), and independent phrase (IP) [6] .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "40742bac72bbbaed4755ff0b74d599_1",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The performance of the PPMI matrix on word similarity tasks can be further improved by using context-distribution smoothing (Levy et al., 2015) and subsampling the corpus (Mikolov et al., 2013b) .",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "f3c2c538019b1d9daa8e6c932d9826_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Our evaluation follows prior work [11, 3] using two metrics.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "c54a1aba5845a52f468cde916c970b_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "While the goal of the original challenge was building a system for inferring dialogue state, for our study, we use the version of the data from Bordes and Weston (2016) , which ignores the dialogue state annotations, using only the raw text of the dialogues.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "21c2160667b3ff919e39285cd1ece7_12",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Ambati et al. (2013) showed that for Hindi, providing CCG categories as features improved Malt in better handling of long distance dependencies.",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "f29baa099b13f38badeb4cbd8789f6_4",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Table 3 : Performance of Bangla readability models proposed by Sinha et al. (Sinha et al., 2012) .",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "918caabbc0bcad04cd07761b29e767_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "The taxonomy used is the taxonomy proposed by Li and Roth (2002) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "a0db9c3a74487d3fcd11e79d44e163_4",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The solution in [27] , named ALGES, differs from [26] in two major ways.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "672d4299e60752e866293d72f97905_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We choose this regression method due to the promising results reported by [12] .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "06917a1dd02d55c827e7e07eeae2da_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "With the availability of annotated corpora, such as Penn Discourse Treebank (PDTB) (Prasad et al., 2008) , statistical discourse parsers were developed (Lin et al., 2012; Ghosh et al., 2011; Xu et al., 2012) .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "f7e80cf0a6724675cab2825cbf7e10_4",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The transformation used in (Herbelot and Vecchi, 2015) is based on Partial Least Squares Regression (PLSR).",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "ee66681690f2c92fe705a09bf7015d_4",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We compare our model against a state-of-the-art statistical machine translation (SMT) system (Zens et al., 2005) and an averaged perceptron edit model (PTEM) with identical features (Freitag and Khadivi, 2007) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "7f2622701e1f6c8492ec627b6ac32b_11",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "The first row corresponds to the GSS configuration in [14] while the second one corresponds to the GSS configuration in [13] .",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "c54a1aba5845a52f468cde916c970b_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Other cited work using the DSTC2 dataset (Bordes and Weston, 2016; Liu and Perez, 2016; Seo et al., 2016) implement similar mechanisms whereby they expand the feature representations of candidate system responses based on whether there is lexical entity class matching with provided dialogue context.",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "cd56849805cdb43bba567f74b31b87_3",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We use Liu et al. (2018) 's Bi-LSTM as baseline.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "280affafa32147a63e7eeda8d5f763_1",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We perform the correlation analysis on the Flickr8K data set of Hodosh et al. (2013) , and the data set of Elliott and Keller (2013) .",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "7c8f54479ce1f9d81b49839425f58e_8",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "To better understand how well our model generalizes to different tasks, we conducted additional transfer learning tests using the SentEval sentence embedding evaluation library 5 (Conneau et al., 2017) and compared our results to the results published for InferSent and SkipThought .",
+    "prediction": "result",
+    "correct": false
+  },
+  {
+    "example_id": "caa0ffb1d4e3e5310a28b921333d1e_7",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "Following the BERT (Devlin et al., 2018) , we use masked language model loss and next sentence prediction (NSP) loss to train the models.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "f29baa099b13f38badeb4cbd8789f6_1",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We have inherited features from Islam et al. (2012; and Sinha et al. (2012) , these features achieve reasonable classification accuracy.",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "66392c3b6fa3744de79f056f615a75_5",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "As mentioned above, Moldovan et al. (2004) showed that the sense collocation of NCs is a key feature when interpreting NCs.",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "0a226accf1fa8b471176916a76f1c6_2",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "As a reference, Barr et al. (2008) report 79.3% when annotating queries with 19 POS tags.",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "26743b7d006e485be1b850a4424a5f_3",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "The probability model of (Xiang et al., 2013) is formulated as MaxEnt model:",
+    "prediction": "method",
+    "correct": false
+  },
+  {
+    "example_id": "21c2160667b3ff919e39285cd1ece7_6",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We used Clark and Curran (2004) 's supertagger for English, and Ambati et al. (2013) 's supertagger for Hindi.",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "1f5326cacca33bfc80a9ddcb4ae313_21",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "We chose our baseline Yang et al. (2015) humour classifier as our anchor candidate scorer for simplicity but their HA extraction algorithm is able to work with any humour recognition model so long as it is robust to word order and capable of generating a humour score (in our case, we used humour probability).",
+    "prediction": "method",
+    "correct": true
+  },
+  {
+    "example_id": "a82bdc55c15bb2bcee77c57641b1b5_2",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "They show that discourse relations such as concessions and the identification of argumentation triggers improves performance over sentiment features alone (Somasundaran and Wiebe, 2009; Somasundaran and Wiebe, 2010) .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "9340338e7cf8ff8de4db84b462dfe5_0",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "Previous works appropriate for this task operate on a limited domain and are not able to incorporate temporal information when checking time-dependent claims (Vlachos and Riedel, 2015) .",
+    "prediction": "background",
+    "correct": true
+  },
+  {
+    "example_id": "048944feaff977c8cf057d52594c72_11",
+    "original_label": "uses",
+    "human_label": "method",
+    "citation_context": "where P ·,s(i) are the latent vectors of similar words of word i; the length of these vectors in the current iteration are stored in L s(i) (similarly L i is the current length of P ·,i ) (cf. (Steck, 2010; Guo and Diab, 2012b) for optimization details).",
+    "prediction": "background",
+    "correct": false
+  },
+  {
+    "example_id": "e3c735811b2ea08d92659272ddcbdd_5",
+    "original_label": "background",
+    "human_label": "background",
+    "citation_context": "An in-depth explanation of these feature selection can be found in [BWDS16] .",
+    "prediction": "background",
+    "correct": true
+  }
+]

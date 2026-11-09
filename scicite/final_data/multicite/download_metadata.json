@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/allenai/multicite",
+  "dataset_variant": "classification_1_context",
+  "source_url": "https://raw.githubusercontent.com/allenai/multicite/master/data/classification_1_context/test.json",
+  "github_blob_sha": "9725ffcb5064b81a1bc362512b2b875b0dd4deed",
+  "download_sha256": "86f17f243d7765e2da0cc153ef3bed2130111562bd47c227c5109e49dddfc25a",
+  "local_filename": "test.json"
+}

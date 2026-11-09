@@ -1,0 +1,20 @@
+{
+  "background": {
+    "background": 33,
+    "method": 2,
+    "result": 0,
+    "invalid": 0
+  },
+  "method": {
+    "background": 1,
+    "method": 5,
+    "result": 0,
+    "invalid": 0
+  },
+  "result": {
+    "background": 2,
+    "method": 1,
+    "result": 1,
+    "invalid": 0
+  }
+}

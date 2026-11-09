@@ -1,0 +1,16 @@
+CUSTOM DATASET EVALUATION
+Examples: 45
+Invalid/empty predictions: 0
+Accuracy: 0.8667
+Three-class macro-F1: 0.6813
+Always-background accuracy: 0.7778
+
+              precision    recall  f1-score   support
+
+  background     0.9167    0.9429    0.9296        35
+      method     0.6250    0.8333    0.7143         6
+      result     1.0000    0.2500    0.4000         4
+
+   micro avg     0.8667    0.8667    0.8667        45
+   macro avg     0.8472    0.6754    0.6813        45
+weighted avg     0.8852    0.8667    0.8538        45

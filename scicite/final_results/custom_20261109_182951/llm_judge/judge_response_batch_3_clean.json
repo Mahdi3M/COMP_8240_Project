@@ -1,0 +1,92 @@
+[
+  {
+    "example_id": "CUSTOM_031",
+    "verdict": "correct",
+    "preferred_label": "method",
+    "reason": "The citing study explicitly uses a survey adapted from the cited work to measure participants' pro-environmental behaviours."
+  },
+  {
+    "example_id": "CUSTOM_032",
+    "verdict": "correct",
+    "preferred_label": "result",
+    "reason": "The authors explicitly compare their finding that young people recognize climate change and its harmful effects with findings from previous studies."
+  },
+  {
+    "example_id": "CUSTOM_033",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation identifies UNICEF as an example of a reputable organization providing climate action resources. It supports a practical recommendation rather than a method adopted or a comparison of research findings."
+  },
+  {
+    "example_id": "CUSTOM_034",
+    "verdict": "incorrect",
+    "preferred_label": "result",
+    "reason": "The authors explicitly connect participants' findings about combining local and global climate initiatives with the cited decentralized, multilevel governance approach."
+  },
+  {
+    "example_id": "CUSTOM_035",
+    "verdict": "incorrect",
+    "preferred_label": "result",
+    "reason": "The authors explicitly relate participants' findings about shared responsibility and collaboration to previous studies demonstrating the need to combine individual and policy-driven approaches."
+  },
+  {
+    "example_id": "CUSTOM_036",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation describes the OECD's PISA assessment as an example of growing international attention to climate change education, providing contextual background."
+  },
+  {
+    "example_id": "CUSTOM_037",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation reports previously documented perceptions of climate-related health impacts among Ethiopian university students without connecting them to the citing study's findings."
+  },
+  {
+    "example_id": "CUSTOM_038",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation summarizes findings from an earlier study involving Ethiopian university students, supplying prior research context without an explicit comparison to the citing study's results."
+  },
+  {
+    "example_id": "CUSTOM_039",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation describes previously identified barriers and facilitators of climate change understanding in Uganda, providing background evidence rather than a method or comparison with current findings."
+  },
+  {
+    "example_id": "CUSTOM_040",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation supports a general explanation of public health professionals' roles in climate mitigation, adaptation, surveillance and emergency response."
+  },
+  {
+    "example_id": "CUSTOM_041",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation supports contextual information about faculty members' potential lack of knowledge and skills for teaching climate change due to gaps in earlier professional training."
+  },
+  {
+    "example_id": "CUSTOM_042",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "Although the passage describes the study's sampling procedure, the citation specifically directs readers to the Russell Group website for organizational information. It does not explicitly identify an adopted sampling method or dataset."
+  },
+  {
+    "example_id": "CUSTOM_043",
+    "verdict": "correct",
+    "preferred_label": "method",
+    "reason": "The citing study explicitly applies conceptual content analysis to summarize open-ended survey responses, citing the methodological approach used."
+  },
+  {
+    "example_id": "CUSTOM_044",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation supports the general claim that students and professionals beyond public health require climate education, providing context for broader curricular recommendations."
+  },
+  {
+    "example_id": "CUSTOM_045",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation supports established background information about the diverse dermatological consequences of climate change, without describing an adopted method or comparing findings."
+  }
+]

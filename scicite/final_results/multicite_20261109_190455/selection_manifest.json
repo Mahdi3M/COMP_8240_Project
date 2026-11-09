@@ -1,0 +1,24 @@
+{
+  "source": "MultiCite classification_1_context/test.json",
+  "source_sha256": "86f17f243d7765e2da0cc153ef3bed2130111562bd47c227c5109e49dddfc25a",
+  "source_records": 3313,
+  "mapping": {
+    "background": "background",
+    "uses": "method"
+  },
+  "excluded_counts": {
+    "unsupported_or_multiple_labels": 1312,
+    "empty_context": 11,
+    "repeated_context_record": 107
+  },
+  "sampling_seed": 8240,
+  "examples_per_class": 100,
+  "selected_examples": 200,
+  "scoring": "Macro-F1 over background and method; all outputs retained.",
+  "limitations": [
+    "Adapted two-category subset, not the full MultiCite benchmark.",
+    "Balanced sampling changes the original label distribution.",
+    "Exact-text overlap checked only against locally available SciCite test.",
+    "Training-data and paper-level overlap have not been ruled out."
+  ]
+}

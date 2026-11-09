@@ -1,0 +1,92 @@
+[\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_016",\
+&#x20;   "verdict": "incorrect",\
+&#x20;   "preferred_label": "result",\
+&#x20;   "reason": "The citing study compares its findings on post-pandemic research trends with Li et al.'s pre-pandemic bibliometric findings to identify structural changes. The citation serves as a comparison of findings rather than the adoption of a method."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_017",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation supports a general explanation of citation indexing delays and their influence on bibliometric measurements. It provides background context for interpreting the observed decline rather than comparing findings."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_018",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation explains established biological pathways involved in ferroptosis, providing conceptual background without indicating methodological adoption or comparison with the citing study's findings."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_019",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The passage describes a previously engineered nanocrystal and its reported effects on ferroptosis and immunotherapy. It summarizes prior research rather than indicating that the citing study adopted the approach or compared its own results."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_020",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation attributes the discovery of cuproptosis to Tsvetkov et al. and introduces its biological characteristics. It establishes scientific background rather than supporting methodological use or findings comparison."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_021",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation supports general biological information about copper regulation, intracellular homeostasis, and the consequences of copper imbalance. Its function is explanatory background."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_022",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation provides background on the harmful effects of copper overload. The passage subsequently discusses nanotechnology and cuproptosis-based immunotherapy without indicating adoption of a cited method or comparison of findings."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_023",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation supports the established classification of polyphenols into four main categories, providing foundational scientific information rather than a method or results comparison."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_024",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The passage summarizes Soldevilla et al.'s previously reported aptamer construction and experimental outcomes to illustrate the therapeutic potential of immune-agonist aptamers. It does not indicate that the citing study adopted the procedure or compared its own findings."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_025",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation supports established information about immune checkpoint molecules and mechanisms of tumor immune evasion. It provides conceptual background without methodological adoption or findings comparison."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_026",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation explains the susceptibility of unmodified DNA and RNA aptamers to nuclease degradation and their resulting short half-life. It supplies background information about a known limitation."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_027",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation describes established challenges associated with chemical modification of aptamers, including cost, complexity, and potential structural disruption. No use of a cited modification procedure by the citing study is indicated."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_028",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation highlights a general limitation of aptamer selection involving nonspecific binding. It explains an existing technical challenge rather than documenting the citing study's use of a selection method."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_029",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation supplies prior evidence about the prevalence of acquired resistance to PD-L1 inhibitors, establishing the clinical importance of understanding immunotherapy resistance. It does not compare the citing study's findings with prior results."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_030",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation supports an explanation of how oncolytic viruses modify the tumor microenvironment and promote antitumor immunity. It describes established mechanisms without indicating methodological adoption or comparison of research findings."\
+&#x20; }\
+]

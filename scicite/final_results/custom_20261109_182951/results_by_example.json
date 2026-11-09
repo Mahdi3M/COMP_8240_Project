@@ -1,0 +1,362 @@
+[
+  {
+    "example_id": "CUSTOM_001",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Therefore, in compliance with health regulations, the implementation of new technologies, such as AI, can anticipate improvements in access to health services, quality of care, and continuous innovation. This, in turn, enhances the sector’s development, especially when applied to PHC. Additionally, it is estimated that the use of it can contribute to much more sustainable, efficient, and adaptable health systems, tailored to the population’s needs, thereby it can help to promote equitable and universal access to health services(8)."
+  },
+  {
+    "example_id": "CUSTOM_002",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Since 1854, ideas like those of George Boole regarding AI have been emerging, arguing that it was possible to systematize logical reasoning in the same way mathematical equations are solved. However, it wasn’t until 1936, with the design of the Turing machine, that the initial theoretical model of AI began to be considered, allowing computers to perform rapid and powerful calculations and processing. Nevertheless, the most effective version did not emerge until the 1950s(9)."
+  },
+  {
+    "example_id": "CUSTOM_003",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "AI can be understood from three main perspectives. First, machine learning refers to the development of computer programs that learn from data through a training process, enabling them to identify patterns and make predictions on new, unseen data. During this process, input and output data are used to train an algorithm, which incrementally refines and optimizes its internal rules based on the data(12)."
+  },
+  {
+    "example_id": "CUSTOM_004",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "method",
+    "correct": false,
+    "citation_context": "Finally, natural language processing (NLP) is a specialized integration of classical machine learning, deep learning, and computational linguistics. It allows computers to comprehend and process human language in both spoken and written forms. One of the most widely used models in NLP is the neural network, which simulates the biological functions of human neurons. These networks perform mathematical operations to process and share information in a way that mirrors the functioning of neurons in the brain(15)."
+  },
+  {
+    "example_id": "CUSTOM_005",
+    "topic": "ai_healthcare",
+    "human_label": "method",
+    "prediction": "background",
+    "correct": false,
+    "citation_context": "The evidence presented directly answers the review’s objective and the guiding question. As recommended by Peters et al. (2020)(16), the presentation of results was synthesized in narrative form, which map or describe the results found on the topic studied."
+  },
+  {
+    "example_id": "CUSTOM_006",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "They additionally noted that anthropomorphism is increasingly important for developing trust in females and younger adults (Liu and Tao, 2022)."
+  },
+  {
+    "example_id": "CUSTOM_007",
+    "topic": "ai_healthcare",
+    "human_label": "method",
+    "prediction": "method",
+    "correct": true,
+    "citation_context": "Following suggested guidelines [61], items with a CVR below 0.80 were excluded, resulting in the retention of 14 items."
+  },
+  {
+    "example_id": "CUSTOM_008",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "In total, 428 individuals completed the questionnaire. Of these, 77.6% (n = 332) were female and 22.4% (n = 96) were male. Higher level of participation among females was expected since females are more willing to complete surveys than males. For instance, a meta-analysis showed that the female-only studies had a higher mean response rate (49.3%) than the male-only studies (28.8%). The impact of gender on the online survey response rate is even higher with female participants showing much higher response rates than male participants [64]. The mean age of participants was 41.1 years (standard deviation; 14.1), with a median of 45 years (range: 18–65). The reported mean daily use of AI chatbots, social media platforms, and websites was 3.5 h (SD = 2.6), with a median of 3 h (range: 30 min–14 h)."
+  },
+  {
+    "example_id": "CUSTOM_009",
+    "topic": "ai_healthcare",
+    "human_label": "method",
+    "prediction": "method",
+    "correct": true,
+    "citation_context": "The study utilized an anonymous and voluntary data collection process. Before taking part, participants were fully informed about the research aims and procedures and subsequently provided informed consent. Ethical approval was granted by the Institutional Review Board of the Faculty of Nursing, National and Kapodistrian University of Athens (Protocol Approval #01, 14 September 2025). All procedures adhered to the ethical standards of the Declaration of Helsinki [80]."
+  },
+  {
+    "example_id": "CUSTOM_010",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Usage of mental health chatbots and virtual therapists has increased by 320% between 2020 and 2022. By 2023, around 84% of mental health professionals had either adopted or considered integrating AI tools into their work. By 2032, it is expected that nearly all professionals—approximately 99%—will use AI technologies as part of their routine practice [83]."
+  },
+  {
+    "example_id": "CUSTOM_011",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "This surge reflects a broader trend toward digital mental health solutions, driven by accessibility, affordability, and the demand for immediate support. Market projections indicate continued expansion, with the mental health chatbot sector expected to grow from $380 million in 2025 to $1.65 billion by 2033, representing a compound annual growth rate of approximately 20% [84]."
+  },
+  {
+    "example_id": "CUSTOM_012",
+    "topic": "ai_healthcare",
+    "human_label": "method",
+    "prediction": "method",
+    "correct": true,
+    "citation_context": "A total of six specialists from the second round of expert consultations were chosen to appraise the pertinence of each item using a four-point scale, with ratings ranging from “very relevant” (4) to “very irrelevant” (1). In order to evaluate the content validity of the scale, two specific indices were computed: the item-level content validity index (I-CVI) and the average content validity index for the scale (S-CVI/Ave). The I-CVI was defined as the proportion of experts who rated an item as either 3 or 4 divided by the total number of experts. The S-CVI/Ave was calculated as the average of all I-CVI values across the scale items. According to widely accepted standards, an I-CVI ≥ 0.78 and an S-CVI/Ave ≥ 0.90 indicate acceptable content validity [25]."
+  },
+  {
+    "example_id": "CUSTOM_013",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "In this context, AI should be conceptualized not as a replacement for clinicians but as a cognitive augmentation tool that enhances human judgment. By offloading data-intensive synthesis tasks and providing evidence-informed recommendations, DI can allow clinicians to focus on empathy, communication, and complex ethical reasoning elements of care that remain uniquely human [11]. As medicine enters an increasingly data-driven era, regulated, explainable, and equitable DIHS have the potential to accelerate precision medicine, reduce preventable errors, and improve the quality and consistency of care across diverse healthcare systems."
+  },
+  {
+    "example_id": "CUSTOM_014",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "The transformative potential of AI in healthcare, particularly in precision medicine and AMS, is highlighted in the current review. The ability of AI to analyze vast amounts of data allows for more appropriate treatment decisions, which improves patient outcomes and reduces AMR. AI-clinical decision support systems (AI-CDSS) improve antimicrobial prescribing by reducing improper use of antimicrobials, shortening treatment duration, and minimizing side effects. Integrating AI allows personalized treatment plans based on individual patient data and microbial resistance patterns, optimizing antimicrobial therapy [6]."
+  },
+  {
+    "example_id": "CUSTOM_015",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "method",
+    "correct": false,
+    "citation_context": "A systematic review compares the predicted accuracy of ML algorithms to traditional clinical choices in AMS for both inpatient and outpatient settings. AI algorithms have proven helpful in various settings, including detecting incorrect prescriptions, choosing suitable antimicrobials, inspecting prophylactic procedures, predicting the risk of resistance, and evaluating treatment results. Random forest models were very effective at predicting antimicrobial susceptibility. The results demonstrate how AI can assist AMS in optimizing the use of antimicrobials and enhancing patient outcomes. The authors recommend more research and validation to ensure that AI models are applicable and practical across different healthcare conditions [21]."
+  },
+  {
+    "example_id": "CUSTOM_016",
+    "topic": "cancer_immunotherapy",
+    "human_label": "result",
+    "prediction": "method",
+    "correct": false,
+    "citation_context": "To validate whether the pandemic genuinely accelerated these trends, we conducted a comparative analysis with the bibliometric study by Li et al. (2023), which incorporates pre-pandemic data (up to 2019) [28]. The results indicate that while international collaboration was steadily growing before the pandemic, it underwent a structural qualitative shift post-2020, characterized by the rapid formation of a tight collaborative network centered on China, the US, and Canada. More strikingly, the tumor microenvironment (TME) evolved from a nascent theme in the pre-pandemic era into a definitive research core after 2021, with its keyword frequency and cluster centrality showing explosive growth.This quantitative and qualitative evidence collectively suggests that the pandemic acted as a key catalyst in accelerating these structural transformations."
+  },
+  {
+    "example_id": "CUSTOM_017",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Despite a 171% surge in annual publication volume (increasing from 632 articles in 2020 to 1,713 articles in 2024), the average annual citations per article plummeted sharply from 8.53 to 0.93. This significant decline primarily reflects universal bibliometric patterns: On one hand, articles published in 2020 benefit from longer citation accumulation time (nearly 4 years), typically having passed their citation peak or retaining residual impact; whereas newly published articles in 2024 (which may have existed for only months at the time of statistics) are still at the starting point of their citation cycle, requiring time for their influence to materialize (time accumulation effect). On the other hand, the dramatic expansion in total literature volume (2024 being 2.7 times that of 2020) results in finite total citation resources being distributed across more articles, intensifying competition dilution effects (literature volume surge and competition dilution). Additionally, delays in citation database indexing and processing also lead to an underestimation of immediate citations for 2024 publications (database processing and citation indexing lag) [33]."
+  },
+  {
+    "example_id": "CUSTOM_018",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Ferroptosis is mediated by several primary pathways, encompassing iron metabolism, lipid peroxidation, and antioxidant mechanisms (Figure 1).22 It is crucial to determine if interactions among the aforementioned pathways affect cellular susceptibility to ferroptosis, posing profound implications for overall fitness."
+  },
+  {
+    "example_id": "CUSTOM_019",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "A tetrapod spiky-like iron-palladium nanocrystal was engineered with decylamine as a coordinating ligand for co-reduction of Fe and Pd species, and the surface of nanocrystal was modified with polyvinylpyrrolidone to improve its biosafety and biocompatibility. The nanocrystal induced lipid peroxide accumulation, promoted ferroptosis, and effectively triggered the release of inflammatory cytokines (tumor necrosis factor-α, interleukin-6, and interleukin-1β) in macrophages, strengthening immunotherapy with antibody against PD-L1.67"
+  },
+  {
+    "example_id": "CUSTOM_020",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "In 2022, Tsvetkov et al discovered excessive copper-induced cell death as a distinct type of PCD from other modalities, and it was termed cuproptosis.73 Cuproptosis is featured by excessive accumulation of copper in cells, followed by mitochondrial dysfunction and toxic protein stress, ultimately leading to cell death. Tumor cells demonstrate increased metabolism processes and energy consumption, which are intricately associated with mitochondrial function. This indicates opportunities for cuproptosis as a novel target for eradication of tumor cells."
+  },
+  {
+    "example_id": "CUSTOM_021",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Copper is indispensable for regulation of redox-active enzymes, which are involved in various metabolism processes, signaling pathways, and biological functions.74 Intracellular copper homeostasis is tightly mediated by transporters, efflux protein, and enzymes responsible for conversion of Cu2+ to Cu+, and their coordinated processes maintain a precise balance of copper in cells. Disruption of copper homeostasis can lead to detrimental dysfunction of cells. Inadequate copper blunts normal metabolic activity, while excess copper produces cytotoxicity and ultimately results in cell death."
+  },
+  {
+    "example_id": "CUSTOM_022",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Copper overload in tissues leads to damages, including hepatotoxicity, nephrotoxicity, neurotoxicity, hemolysis, and cytotoxicity.86 Nanotechnology provides a potent approach to enhance anti-tumor immune response by regulating cuproptosis, overcoming the obstacles of current cancer immunotherapy and minimizing off-target toxicity. Nanodrugs for inducing cuproptosis to boost cancer immunotherapy are presented in Table 3."
+  },
+  {
+    "example_id": "CUSTOM_023",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "(Poly)phenols, renowned for their robust antioxidant and anti-inflammatory benefits, are one of the most important and widely occurring bioactive components in EMPs. Flavonoids, phenolic acids, lignans, and stilbenes are the four main types of (poly)phenols [32]. Among these, flavonoids are the most abundant, followed by phenolic acids."
+  },
+  {
+    "example_id": "CUSTOM_024",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Moreover, it has been established that CD40 and CD40L are a pair of co-stimulatory molecules that can promote the immune response. Soldevilla et al. successfully demonstrated that CD40Apt1, an aptamer targeting CD40, could induce the activation of B lymphocytes and dendritic cells. At the same time, they connected the CD40 aptamer and small hairpin RNA (shRNA), which inhibited SMG1 from forming a CD40Apt-SMG1-shRNA chimera. In BALB/c mice with lymphoma, it is evident that this chimera significantly improves the survival of the mice. Furthermore, the CD40 agonist aptamer can promote the conditions for antigen-presenting cell activation, enhance tumor antigenicity, and facilitate bone-marrow aplasia recovery.45 The successful development of monospecific aptamers targeting co-stimulatory receptors like 4-1BB, CD28, and CD40 demonstrates the significant potential of aptamers as potent immune agonists."
+  },
+  {
+    "example_id": "CUSTOM_025",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Checkpoint molecules suppress immune function. Inhibiting checkpoint molecules can boost endogenous anti-cancer responses. Tumor cells evade T cell cytotoxicity by upregulating checkpoint ligands, such as cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) and programmed cell death ligand 1 (PD-L1).68"
+  },
+  {
+    "example_id": "CUSTOM_026",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Unmodified natural DNA/RNA aptamers are highly susceptible to rapid degradation by nucleases present in biological fluids. This results in an extremely short half-life, leading to their swift inactivation.26"
+  },
+  {
+    "example_id": "CUSTOM_027",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Chemical modifications (e.g., incorporation of 2′-fluoro or 2′-O-methyl ribose) aimed at enhancing stability and binding affinity constitute a complex, costly, and time-consuming process. Furthermore, inappropriate modifications can disrupt the critical three-dimensional structure necessary for target binding.28"
+  },
+  {
+    "example_id": "CUSTOM_028",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "It is notoriously difficult to eliminate sequences that bind non-specifically to other components within the selection system (e.g., the solid-phase matrix itself) rather than the intended target.26"
+  },
+  {
+    "example_id": "CUSTOM_029",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "With the expanding application of immunotherapy in clinical practice, the challenge of immunotherapeutic drug resistance has gained increasing prominence. Research indicates that over 60% of patients develop acquired resistance after initial treatment with PD-L1 inhibitors (9). Despite notable advances in immunotherapy, resistance mechanisms significantly affect the prognosis of lung cancer patients, heightening their risk of disease progression or recurrence. Consequently, a comprehensive understanding of the underlying mechanisms driving immunotherapy resistance in lung cancer is imperative for the development of effective treatment and improved patient outcomes."
+  },
+  {
+    "example_id": "CUSTOM_030",
+    "topic": "cancer_immunotherapy",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Oncolytic viruses (OVs) remodel TME by orchestrating a series of crucial changes that tip the balance towards anti-tumor immunity. This includes reducing the presence and activity of Tregs and MDSCs, inhibiting the production of immunosuppressive factors like TGF-β, and simultaneously boosting the release of immunostimulatory cytokines. These actions culminate in the creation of a more favorable microenvironment that supports effective immune cell infiltration and function, ultimately helping to overcome existing immune resistance mechanisms (71)."
+  },
+  {
+    "example_id": "CUSTOM_031",
+    "topic": "climate_health",
+    "human_label": "method",
+    "prediction": "method",
+    "correct": true,
+    "citation_context": "For pro-environmental behaviours, we utilized a survey adapted from [14]. This survey comprised a total of sixteen items, with eight focusing on individual behaviours (e.g., recycling and composting) and the remaining eight pertaining to collective behaviours (e.g., participating in protests). Participants specified their level of participation as a percentage over the last year, choosing from a scale spanning ten values, ranging from 0 % to 100 %. Higher scores indicate a greater number of pro-environmental behaviours performed over the past year."
+  },
+  {
+    "example_id": "CUSTOM_032",
+    "topic": "climate_health",
+    "human_label": "result",
+    "prediction": "result",
+    "correct": true,
+    "citation_context": "Interestingly we found that the young people with elevated depression had double the eco-anxiety scores of the control participants. This is an interesting finding but was not quantitively significant, likely due to the small sample size. Across the board however the young people recognized climate change and its harmful effects on the environment, similar to previous studies [38]. They cited physical events such as droughts, storms, and floods and compared climate change to the apocalypse, underscoring the severity with which they perceive its impact on the natural world."
+  },
+  {
+    "example_id": "CUSTOM_033",
+    "topic": "climate_health",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "When discussing climate action, participants acknowledged the need for collective effort, but they described in more detail their own individual efforts such as recycling, using less, eating more plant-based food and using more public transport. However, they expressed worries about how individual effort might not be enough and how hard it is to stay hopeful especially when big corporations are less inclined to climate action. They also described how connecting one’s individual actions in the UK to climate change far away was difficult. Thus, these findings show that young people could be more supported in knowing what is going on regards climate action at a national or global level, to further inspire them. Further, the data suggests they should be given more information about how they could become involved in larger scale advocacy which provokes sustainable change. For example young people could be signposted to climate action groups and information websites from reputable organisations such as UNICEF [61]."
+  },
+  {
+    "example_id": "CUSTOM_034",
+    "topic": "climate_health",
+    "human_label": "result",
+    "prediction": "background",
+    "correct": false,
+    "citation_context": "Participants described a variety of ways to encourage people to take climate action. They emphasised the value of fusing local and global initiatives to build into something more global over time. This is in line with climate governance as a decentralized multi-level bottom-up approach [68] where multiple centres of local decision-making can contribute to more effective global climate governance."
+  },
+  {
+    "example_id": "CUSTOM_035",
+    "topic": "climate_health",
+    "human_label": "result",
+    "prediction": "background",
+    "correct": false,
+    "citation_context": "Finally, the young people emphasized that the responsibility for addressing climate change lies with us all, from families and educators to governments and celebrities. They stressed the need for everyone to work together, supported by government policies and judicial reforms. They reported that climate change action needs collaboration which aligns with studies showing the need for combining individual and policy-driven approaches [69]."
+  },
+  {
+    "example_id": "CUSTOM_036",
+    "topic": "climate_health",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Globally, there is a growing emphasis on integrating climate change education into curricula to equip students with the knowledge and skills to address environmental challenges. For instance, the Organisation for Economic Co-operation and Development (OECD’s) 2025 Programme for International Student Assessment (PISA) assessment focuses on students’ understanding of climate issues, aiming to measure their capacity to distinguish scientific evidence from misinformation and make informed decisions regarding environmental challenges [8]."
+  },
+  {
+    "example_id": "CUSTOM_037",
+    "topic": "climate_health",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Among Ethiopian university students, perceived health impacts included heat stroke, malaria, injuries from extreme weather, malnutrition, diarrheal and other waterborne diseases, skin infections like scabies and trachoma, skin cancer, and psychological conditions such as anxiety and depression [23]."
+  },
+  {
+    "example_id": "CUSTOM_038",
+    "topic": "climate_health",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "A larger sample of Ethiopian university students identified a similarly wide array of perceived health effects: heat-related illnesses, injuries and deaths, respiratory and cardiovascular diseases, vector-borne diseases, malnutrition, waterborne diseases, and skin conditions, alongside mental health challenges such as anxiety and depression [40]."
+  },
+  {
+    "example_id": "CUSTOM_039",
+    "topic": "climate_health",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "In Uganda, barriers to deeper climate understanding were skepticism about human contributions to climate change and a lack of experiential learning in the curriculum. Facilitators included the inclusion of environmental management content and the value of peer dialogue and group discussions in enhancing comprehension and engagement [19]."
+  },
+  {
+    "example_id": "CUSTOM_040",
+    "topic": "climate_health",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "In this scenario, training public health professionals in the nexus of climate change and population health is crucial. Their knowledge and experience of dealing with complex systems and addressing entrenched health inequalities is instrumental to building climate-resilient health systems and developing policies that support populations in proportion to their needs and resources. For instance, health professionals have a key role to play in lowering the greenhouse gas emissions of health systems by investing in primary prevention and hence reducing the need for healthcare, developing effective surveillance mechanisms and early warning systems to protect population health from extreme weather events, and leading the emergency response to climate-related hazards, in collaboration with community organizations, to support affected populations [17]."
+  },
+  {
+    "example_id": "CUSTOM_041",
+    "topic": "climate_health",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "Climate change is a relatively recently recognized public health challenge and hence it did not feature in the training of previous generations of public health professionals who are now training current and future generations. Therefore, faculty may lack the knowledge and skills to train students [22]. It has not been routinely included in the curricula of Masters of Public Health (MPH) programs, and does not constitute a major portion of the training curriculum of the Faculty of Public Health (FPH), the professional body that is responsible for the training of public health specialist doctors and professionals in the UK."
+  },
+  {
+    "example_id": "CUSTOM_042",
+    "topic": "climate_health",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "The sample included the Russell group universities as well as the universities commissioned by NHS England Workforce, Training and Education as part of the specialty training in Public Health Medicine. MPH course directors were contacted by email and invited to take part by answering the survey. Universities that are part of the Russell Group but do not offer an MPH or equivalent were excluded. The Russell Group represents 24 research-focused universities located in every region and nation of the UK. They produce more than two-thirds of the world-leading research produced in UK universities. The list of included MPH programs is provided in Supplementary Data. Further information about the Russell Group is available on their website [26]."
+  },
+  {
+    "example_id": "CUSTOM_043",
+    "topic": "climate_health",
+    "human_label": "method",
+    "prediction": "method",
+    "correct": true,
+    "citation_context": "Frequency tables were used to summarize answers to multiple-choice questions about the current and desired inclusion of several climate change related subjects. Content analysis, specifically conceptual analysis, was undertaken by one researcher (ACPG) to summarize answers to open-ended questions about barriers to inclusion of climate change and related subjects in MPH curricula [27]. The conceptual analysis involved investigating the occurrence of explicit themes and modules related to climate change and planetary health in MPH curricula."
+  },
+  {
+    "example_id": "CUSTOM_044",
+    "topic": "climate_health",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "The multiple and varied impacts of climate change mean that students and professionals from fields other than public health also have an urgent need for climate education [36]. Climate change not only has direct health impacts (e.g. deaths cause by climate-related extreme weather events) but also indirect health impacts, mediated by the wider determinants of health, such as housing and living conditions, education, employment, built and natural environment among others. It is thus necessary to update other curricula beyond those for MPH courses to ensure that all degrees consider the direct and indirect impacts of climate change in their field and how their sector can meaningfully contribute towards climate mitigation and adaptation. Of note, some universities are now delivering dedicated Masters programs on climate change and planetary health."
+  },
+  {
+    "example_id": "CUSTOM_045",
+    "topic": "climate_health",
+    "human_label": "background",
+    "prediction": "background",
+    "correct": true,
+    "citation_context": "It is important to emphasise that the dermatological impacts of climate change are not limited to skin cancer alone. Rising global temperatures and environmental alterations have been linked to increased incidence of inflammatory and chronic dermatoses, skin infections, vector-borne diseases and exacerbation of chronic skin conditions.14"
+  }
+]

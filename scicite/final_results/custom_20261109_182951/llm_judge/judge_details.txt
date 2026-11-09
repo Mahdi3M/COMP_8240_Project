@@ -1,0 +1,7 @@
+Provider/interface: ChatGPT Plus
+Model name/version shown: GPT-6
+Date of evaluation: 9/11/2026
+Temperature: not exposed
+Fresh conversation for each batch: Yea
+Browsing/tools disabled: Yes
+Any retries or response repairs: No

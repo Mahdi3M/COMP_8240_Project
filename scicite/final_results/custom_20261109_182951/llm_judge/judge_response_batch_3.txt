@@ -1,0 +1,92 @@
+[\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_031",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "method",\
+&#x20;   "reason": "The citing study explicitly uses a survey adapted from the cited work to measure participants' pro-environmental behaviours."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_032",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "result",\
+&#x20;   "reason": "The authors explicitly compare their finding that young people recognize climate change and its harmful effects with findings from previous studies."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_033",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation identifies UNICEF as an example of a reputable organization providing climate action resources. It supports a practical recommendation rather than a method adopted or a comparison of research findings."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_034",\
+&#x20;   "verdict": "incorrect",\
+&#x20;   "preferred_label": "result",\
+&#x20;   "reason": "The authors explicitly connect participants' findings about combining local and global climate initiatives with the cited decentralized, multilevel governance approach."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_035",\
+&#x20;   "verdict": "incorrect",\
+&#x20;   "preferred_label": "result",\
+&#x20;   "reason": "The authors explicitly relate participants' findings about shared responsibility and collaboration to previous studies demonstrating the need to combine individual and policy-driven approaches."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_036",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation describes the OECD's PISA assessment as an example of growing international attention to climate change education, providing contextual background."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_037",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation reports previously documented perceptions of climate-related health impacts among Ethiopian university students without connecting them to the citing study's findings."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_038",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation summarizes findings from an earlier study involving Ethiopian university students, supplying prior research context without an explicit comparison to the citing study's results."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_039",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation describes previously identified barriers and facilitators of climate change understanding in Uganda, providing background evidence rather than a method or comparison with current findings."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_040",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation supports a general explanation of public health professionals' roles in climate mitigation, adaptation, surveillance and emergency response."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_041",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation supports contextual information about faculty members' potential lack of knowledge and skills for teaching climate change due to gaps in earlier professional training."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_042",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "Although the passage describes the study's sampling procedure, the citation specifically directs readers to the Russell Group website for organizational information. It does not explicitly identify an adopted sampling method or dataset."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_043",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "method",\
+&#x20;   "reason": "The citing study explicitly applies conceptual content analysis to summarize open-ended survey responses, citing the methodological approach used."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_044",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation supports the general claim that students and professionals beyond public health require climate education, providing context for broader curricular recommendations."\
+&#x20; },\
+&#x20; {\
+&#x20;   "example_id": "CUSTOM_045",\
+&#x20;   "verdict": "correct",\
+&#x20;   "preferred_label": "background",\
+&#x20;   "reason": "The citation supports established background information about the diverse dermatological consequences of climate change, without describing an adopted method or comparing findings."\
+&#x20; }\
+]

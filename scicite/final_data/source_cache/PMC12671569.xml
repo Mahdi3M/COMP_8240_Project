@@ -1,0 +1,646 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="nop270386" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Nurs Open</journal-id><journal-id journal-id-type="iso-abbrev">Nurs Open</journal-id><journal-id journal-id-type="pmc-domain-id">3024</journal-id><journal-id journal-id-type="pmc-domain">nursopen</journal-id><journal-id journal-id-type="nlm-id">101675107</journal-id><journal-id journal-id-type="publisher-id">NOP2</journal-id><journal-title-group><journal-title>Nursing Open</journal-title></journal-title-group><issn pub-type="epub">2054-1058</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12671569</article-id><article-id pub-id-type="pmcid-ver">PMC12671569.1</article-id><article-id pub-id-type="pmcaid">12671569</article-id><article-id pub-id-type="pmcaiid">12671569</article-id><article-id pub-id-type="pmid">41329788</article-id><article-id pub-id-type="doi">10.1002/nop2.70386</article-id><article-id pub-id-type="publisher-id">NOP270386</article-id><article-id pub-id-type="other">NOP-2024-Sep-2070</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Empirical Research Quantitative</subject></subj-group><subj-group subj-group-type="heading"><subject>Empirical Research Quantitative</subject></subj-group></article-categories><title-group><article-title>Nursing Students' Perception of and Readiness for Artificial Intelligence in <styled-content style="fixed-case" toggle="no">Saudi Arabia</styled-content>
+</article-title></title-group><contrib-group><contrib id="nop270386-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Bakarman</surname><given-names initials="SS">Safiya Salem</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7840-9218</contrib-id><xref rid="nop270386-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>sbakarman@ksu.edu.sa</email></address></contrib><contrib id="nop270386-cr-0002" contrib-type="author"><name name-style="western"><surname>Al‐shammari</surname><given-names initials="A">Alkadi</given-names></name><xref rid="nop270386-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="nop270386-cr-0003" contrib-type="author"><name name-style="western"><surname>Aboshaiqah</surname><given-names initials="A">Ahmad</given-names></name><xref rid="nop270386-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="nop270386-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Community and Mental Health Nursing, College of Nursing</named-content>
+<institution>King Saud University</institution>
+<city>Riyadh</city>
+<country country="SA">Saudi Arabia</country>
+</aff><aff id="nop270386-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Nursing Administration and Education, College of Nursing</named-content>
+<institution>King Saud University</institution>
+<city>Riyadh</city>
+<country country="SA">Saudi Arabia</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Safiya Salem Bakarman (<email>sbakarman@ksu.edu.sa</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>12</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2025</year></pub-date><volume>12</volume><issue seq="820">12</issue><issue-id pub-id-type="pmc-issue-id">501431</issue-id><issue-id pub-id-type="doi">10.1002/nop2.v12.12</issue-id><elocation-id>e70386</elocation-id><history>
+<date date-type="rev-recd"><day>22</day><month>10</month><year>2025</year></date>
+<date date-type="received"><day>25</day><month>9</month><year>2024</year></date>
+<date date-type="accepted"><day>13</day><month>11</month><year>2025</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>02</day><month>12</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>03</day><month>12</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-09-25 17:42:56.990"><day>25</day><month>09</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Nursing Open</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="NOP2-12-e70386.pdf"><?pdf-name NOP2-12-e70386.pdf?><?pdf-size 369513?><?pdf-md5 4728f7d17d5fcf054aec49a3ebc3a6ae?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:30b4/12671569/4728f7d17d5f/NOP2-12-e70386.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:NOP2-12-e70386.pdf"/><abstract><title>ABSTRACT</title><sec id="nop270386-sec-0001"><title>Aims</title><p>Artificial intelligence (AI) is reshaping healthcare by enhancing the quality and efficiency of patient care. Nursing students, as future healthcare providers, must be prepared to integrate AI into practice. However, limited research exists on their perceptions and readiness to use AI at King Saud University (KSU) in Saudi Arabia. This study aimed to assess the perceptions and readiness of nursing students toward the use of AI in healthcare and to identify the predictors of their readiness for medical AI.</p></sec><sec id="nop270386-sec-0002"><title>Design</title><p>A descriptive, cross‐sectional, correlational study was conducted among 304 nursing students selected through convenience sampling.</p></sec><sec id="nop270386-sec-0003"><title>Methods</title><p>The General Perceptions of the Use of Artificial Intelligence Applications Scale was used to assess perceptions, while the Medical Artificial Intelligence Readiness Scale for Medical Students (MAIRS‐MS) measured readiness. Data were analysed using appropriate statistical methods.</p></sec><sec id="nop270386-sec-0004"><title>Results</title><p>Overall perception of AI was high (mean = 3.67, SD = 0.91), with the ‘advantages of AI’ scoring the highest (mean = 3.99, SD = 0.81). Readiness for medical AI was also high (mean = 3.79, SD = 0.74). Among the MAIRS‐MS dimensions, ethics scored highest (mean = 3.91, SD = 0.71), followed by ability (mean = 3.86, SD = 0.71), cognition (mean = 3.72, SD = 0.76) and vision (mean = 3.69, SD = 0.78). Predictors of readiness included highest educational attainment (<italic toggle="no">p</italic> = 0.007), advantages of AI (<italic toggle="no">p</italic> = 0.004) and overall perceptions of AI applications.</p></sec><sec id="nop270386-sec-0005"><title>Patient or Public Contribution</title><p>No patient or public contribution.</p></sec></abstract><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>the Ongoing Research Funding program, (ORF‐2025‐1298), King Saud University, Riyadh, Saudi Arabia.</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="4"/><page-count count="10"/><word-count count="5800"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.6 mode:remove_FC converted:02.12.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="nop270386-cit-1001">
+<string-name name-style="western">
+<surname>Bakarman</surname>, <given-names>S. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Al‐shammari</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Aboshaiqah</surname>
+</string-name>. <year>2025</year>. “<article-title>Nursing Students' Perception of and Readiness for Artificial Intelligence in <styled-content style="fixed-case" toggle="no">Saudi Arabia</styled-content>
+</article-title>.” <source>Nursing Open</source>
+<volume>12</volume>, no. <issue>12</issue>: <elocation-id>e70386</elocation-id>. <pub-id pub-id-type="doi">10.1002/nop2.70386</pub-id>.<pub-id pub-id-type="pmcid">PMC12671569</pub-id><pub-id pub-id-type="pmid">41329788</pub-id></mixed-citation>
+</p></notes></front><body id="nop270386-body-0001"><sec id="nop270386-sec-0006"><label>1</label><title>Introduction</title><p>Artificial intelligence (AI) is rapidly transforming healthcare by enhancing diagnosis, treatment, prevention and administrative efficiency. Between 2019 and 2020, the proportion of healthcare organisations utilising AI increased from 55% to 63% (Minor <xref rid="nop270386-bib-0030" ref-type="bibr">2021</xref>). Major hospitals now use AI systems to support diagnosis, disease prevention and treatment, resulting in more streamlined and effective healthcare provision (Lee and Yoon <xref rid="nop270386-bib-0027" ref-type="bibr">2021</xref>; Sit et al. <xref rid="nop270386-bib-0041" ref-type="bibr">2020</xref>). AI applications in medicine include advanced image processing, improved diagnostic accuracy in radiology and pathology, and outcome prediction in patients with atrial fibrillation (Bedi et al. <xref rid="nop270386-bib-0014" ref-type="bibr">2023</xref>). AI also improves administrative functions such as scheduling, documentation and resource allocation.</p><p>Despite these benefits, several challenges hinder AI adoption. Ethical concerns remain prominent, especially regarding patient safety, preferences and privacy (Sit et al. <xref rid="nop270386-bib-0041" ref-type="bibr">2020</xref>; Chikhaoui et al. <xref rid="nop270386-bib-0015" ref-type="bibr">2022</xref>). Legal dilemmas also persist, as regulatory frameworks struggle to keep pace with technological advancements (Saeed et al. <xref rid="nop270386-bib-0039" ref-type="bibr">2023</xref>). In addition, lack of trust, uncertainty about accountability, and liability for AI‐related outcomes may reduce confidence among healthcare professionals (HCPs) (Bajwa et al. <xref rid="nop270386-bib-0013" ref-type="bibr">2021</xref>).</p><p>To ensure effective adoption, HCPs must remain current with technological advances (Demir‐Kaymak et al. <xref rid="nop270386-bib-0017" ref-type="bibr">2024</xref>). AI enhances both clinical practice and management efficiency, improving overall patient care (Demir‐Kaymak et al. <xref rid="nop270386-bib-0017" ref-type="bibr">2024</xref>; Martinez‐Ortigosa et al. <xref rid="nop270386-bib-0029" ref-type="bibr">2023</xref>). Nurses are particularly central to AI integration, serving as end users, educators, leaders and policy advisors (Kwak et al. <xref rid="nop270386-bib-0026" ref-type="bibr">2022</xref>). AI is reshaping nursing across multiple domains—patient care, policy, administration, education and research. It supports diagnosis through analysis of complex clinical data (Glauberman et al. <xref rid="nop270386-bib-0019" ref-type="bibr">2023</xref>), improves decision‐making, personalises patient care and enhances operational efficiency (Tang et al. <xref rid="nop270386-bib-0044" ref-type="bibr">2024</xref>). In research, AI tools strengthen academic writing, accelerate project completion and improve quality (Hwang et al. <xref rid="nop270386-bib-0022" ref-type="bibr">2024</xref>).</p><p>In nursing education, AI‐supported applications and virtual simulations provide immersive learning experiences (Yalcinkaya et al. <xref rid="nop270386-bib-0046" ref-type="bibr">2024</xref>; Karaca et al. <xref rid="nop270386-bib-0024" ref-type="bibr">2021</xref>). These tools enhance clinical judgement, digital literacy and research skills (Hwang et al. <xref rid="nop270386-bib-0022" ref-type="bibr">2024</xref>; Yang <xref rid="nop270386-bib-0047" ref-type="bibr">2024</xref>). However, concerns about overreliance on technology, algorithmic bias, data privacy and legal liability persist (Pinto dos Santos et al. <xref rid="nop270386-bib-0034" ref-type="bibr">2019</xref>; Ahmad et al. <xref rid="nop270386-bib-0004" ref-type="bibr">2023</xref>). Nursing curricula should therefore integrate ethical training, digital literacy and moral sensitivity to prepare students for AI‐enabled healthcare environments (Yang <xref rid="nop270386-bib-0047" ref-type="bibr">2024</xref>).</p><p>Studies assessing nursing students' readiness for AI show mixed findings. Research in Arab nations found moderate knowledge, perception and intention regarding AI use (Al Omari et al. <xref rid="nop270386-bib-0005" ref-type="bibr">2024</xref>), while a study in Egypt reported poor perceptions among nursing interns (Abdel‐Moaty et al. <xref rid="nop270386-bib-0001" ref-type="bibr">2024</xref>). In Turkey, nursing students demonstrated moderate readiness, with readiness influencing anxiety levels (Taşkiran <xref rid="nop270386-bib-0045" ref-type="bibr">2023</xref>), and readiness positively associated with attitudes towards AI (Sumengen et al. <xref rid="nop270386-bib-0042" ref-type="bibr">2025</xref>). In Saudi Arabia, recent studies reported generally positive perceptions of AI among nursing students (Khodeir et al. <xref rid="nop270386-bib-0025" ref-type="bibr">2024</xref>; Alsenany et al. <xref rid="nop270386-bib-0010" ref-type="bibr">2024</xref>), but readiness has not been adequately explored. Given that AI literacy is now viewed as essential for employability, problem‐solving and critical thinking (El‐Sayed et al. <xref rid="nop270386-bib-0018" ref-type="bibr">2025</xref>), this gap warrants further investigation.</p><p>Nursing students also employ AI tools in redaction, removing personal identifiers from medical documents to preserve patient confidentiality while practicing with realistic case data (Alaqra et al. <xref rid="nop270386-bib-0006" ref-type="bibr">2018</xref>; Nashwan et al. <xref rid="nop270386-bib-0031" ref-type="bibr">2023</xref>; Makubhai et al. <xref rid="nop270386-bib-0028" ref-type="bibr">2023</xref>; Pucchio et al. <xref rid="nop270386-bib-0035" ref-type="bibr">2022</xref>; Schüffler et al. <xref rid="nop270386-bib-0040" ref-type="bibr">2021</xref>; Rane et al. <xref rid="nop270386-bib-0036" ref-type="bibr">2021</xref>). This highlights the importance of combining AI literacy with ethical and legal competencies.</p><p>Despite increasing global attention, literature on nursing students' perceptions and readiness for AI in Saudi Arabia remains scarce. Therefore, this study aimed to explore perceptions and readiness to utilise AI among nursing students in Saudi Arabia and identify factors influencing their readiness for medical AI.</p></sec><sec sec-type="methods" id="nop270386-sec-0007"><label>2</label><title>Methods</title><sec id="nop270386-sec-0008"><label>2.1</label><title>Research Design</title><p>This study employed a quantitative, descriptive, cross‐sectional, correlational design to assess nursing students' perceptions and readiness to utilise AI at KSU in Saudi Arabia and to identify predictors of readiness.</p></sec><sec id="nop270386-sec-0009"><label>2.2</label><title>Respondents</title><p>The study population comprised all nursing students enrolled at KSU in Saudi Arabia between October 18, 2023, and December 16, 2023 (<italic toggle="yes">N</italic> = 1045). Using an online calculator (Raosoft Inc <xref rid="nop270386-bib-0037" ref-type="bibr">2004</xref>), the minimum required sample size was determined as 282, based on a 95% confidence level and 5% margin of error. To account for a 20% non‐response rate, 338 students were invited to participate. A convenience sampling method was applied, including undergraduate, postgraduate and doctoral nursing students aged 18 years and older, of both genders. Exclusion criteria included students outside the university and those unwilling to participate. Although non‐random, this method was chosen for practicality and ease of access, which may limit the generalisability of findings (Atalla et al. <xref rid="nop270386-bib-0012" ref-type="bibr">2024</xref>). Ultimately, 304 students completed the survey, yielding an effective response rate of 89.9%.</p></sec><sec id="nop270386-sec-0010"><label>2.3</label><title>Instruments</title><p>Perceptions of AI were measured using the General Perceptions of the Use of Artificial Intelligence Applications Scale, which comprises three dimensions—perceptions of AI, advantages of AI and problems associated with AI—across 14 items rated on a five‐point Likert scale (1 = strongly disagree to 5 = strongly agree) (Sumengen et al. <xref rid="nop270386-bib-0042" ref-type="bibr">2025</xref>). The scale has demonstrated strong reliability in previous studies (<italic toggle="yes">α</italic> = 0.92) (Atalla et al. <xref rid="nop270386-bib-0012" ref-type="bibr">2024</xref>; Abdullah and Fakieh <xref rid="nop270386-bib-0002" ref-type="bibr">2020</xref>). In this study, reliability was acceptable (overall <italic toggle="yes">α</italic> = 0.714; subscales <italic toggle="yes">α</italic> = 0.701–0.779). Confirmatory factor analysis (CFA) supported construct validity (KMO = 0.742; Bartlett's test, <italic toggle="yes">χ</italic>
+<sup>2</sup> = 1173.677, <italic toggle="yes">p</italic> &lt; 0.05). All communalities exceeded the recommended 0.60, and the total variance explained was 66.2%, surpassing the acceptable threshold of 60% (Izah et al. <xref rid="nop270386-bib-0023" ref-type="bibr">2024</xref>; Tabachnick and Fidell <xref rid="nop270386-bib-0043" ref-type="bibr">2018</xref>; Newlands et al. <xref rid="nop270386-bib-0032" ref-type="bibr">2023</xref>).</p><p>Readiness for AI was assessed using the Medical Artificial Intelligence Readiness Scale for Medical Students (MAIRS‐MS) (Karaca et al. <xref rid="nop270386-bib-0024" ref-type="bibr">2021</xref>; Alavi et al. <xref rid="nop270386-bib-0007" ref-type="bibr">2020</xref>). This 22‐item instrument, rated on a five‐point Likert scale, evaluates four dimensions: cognition (8 items), ability (8 items), vision (3 items) and ethics (3 items). Higher mean scores indicate greater readiness. Previous studies have established the reliability and validity of this scale (Sumengen et al. <xref rid="nop270386-bib-0042" ref-type="bibr">2025</xref>; Alavi et al. <xref rid="nop270386-bib-0007" ref-type="bibr">2020</xref>). In this study, reliability was excellent (overall <italic toggle="yes">α</italic> = 0.936; subscales <italic toggle="yes">α</italic> = 0.843–0.895). CFA confirmed construct validity (KMO = 0.832; Bartlett's test, <italic toggle="yes">χ</italic>
+<sup>2</sup> = 5157.505, <italic toggle="yes">p</italic> &lt; 0.05). All communalities exceeded 0.60, and the total variance explained was 72.1%, above the recommended 60% (Izah et al. <xref rid="nop270386-bib-0023" ref-type="bibr">2024</xref>; Tabachnick and Fidell <xref rid="nop270386-bib-0043" ref-type="bibr">2018</xref>; Newlands et al. <xref rid="nop270386-bib-0032" ref-type="bibr">2023</xref>).</p></sec><sec id="nop270386-sec-0011"><label>2.4</label><title>Data Collection</title><p>The survey was administered online via Google Forms. Participants provided informed consent by selecting ‘Agree’ before proceeding; those selecting ‘Disagree’ were exited from the survey. The survey remained open until sufficient responses were obtained, with reminders sent to minimise non‐response bias. Out of 338 invited students, 304 completed the survey. A pilot study with 30 students (October 10–14, 2023) confirmed the clarity, readability and average completion time of approximately 20 min.</p></sec><sec id="nop270386-sec-0012"><label>2.5</label><title>Ethical Considerations</title><p>Ethical approval was obtained from the Institutional Review Board (IRB), KSU, Saudi Arabia. The study adhered to the principles of the Declaration of Helsinki. Participation was voluntary and without incentives. Students were informed about the study objectives, potential risks and benefits, rights to withdraw at any time, and confidentiality of responses. All data were anonymous, securely stored and accessible only to the research team. Findings were reported in aggregate form, and data were retained in accordance with IRB requirements.</p></sec><sec id="nop270386-sec-0013"><label>2.6</label><title>Data Analysis</title><p>Data were exported from Google Forms into IBM SPSS version 26 (IBM Corp., Armonk, NY, USA). Descriptive statistics such as frequency, percentage, mean and standard deviation were used to summarise demographic characteristics, perceptions and readiness. Multiple regression analyses were performed to examine the influence of demographic factors and perceptions on readiness for AI. A <italic toggle="yes">p</italic>‐value &lt; 0.05 was considered statistically significant.</p></sec></sec><sec sec-type="results" id="nop270386-sec-0014"><label>3</label><title>Results</title><sec id="nop270386-sec-0015"><label>3.1</label><title>Demographic Profile of Nursing Students</title><p>The majority of participants were aged 18–40 years (95.1%) and predominantly female (87.8%). Regarding educational level, 45.4% (<italic toggle="yes">n</italic> = 138) were at the BSN level, 46.1% (<italic toggle="yes">n</italic> = 140) at the MSN level, and 8.6% (<italic toggle="yes">n</italic> = 26) at the PhD level. Most students reported a GPA of 4.1 (SD = 0.66), and nearly half (46.1%) had less than one year of clinical experience (Table <xref rid="nop270386-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="nop270386-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographic profiles of nursing students (<italic toggle="no">n</italic> = 304).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">S. no.</th><th align="center" valign="bottom" rowspan="1" colspan="1">Demographic profiles</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">f</italic>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">%</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>1</bold>.</td><td align="center" colspan="3" valign="top" rowspan="1">
+<bold>Age (in years)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">18–40</td><td align="center" valign="top" rowspan="1" colspan="1">289</td><td align="center" valign="top" rowspan="1" colspan="1">95.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">41–65</td><td align="center" valign="top" rowspan="1" colspan="1">15</td><td align="center" valign="top" rowspan="1" colspan="1">4.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>2</bold>.</td><td align="center" colspan="3" valign="top" rowspan="1">
+<bold>Gender</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">37</td><td align="center" valign="top" rowspan="1" colspan="1">12.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">267</td><td align="center" valign="top" rowspan="1" colspan="1">87.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>3</bold>.</td><td align="center" colspan="3" valign="top" rowspan="1">
+<bold>Highest educational attainment</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">BSN level</td><td align="center" valign="top" rowspan="1" colspan="1">138</td><td align="center" valign="top" rowspan="1" colspan="1">45.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">MSN level</td><td align="center" valign="top" rowspan="1" colspan="1">140</td><td align="center" valign="top" rowspan="1" colspan="1">46.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">PhD level</td><td align="center" valign="top" rowspan="1" colspan="1">26</td><td align="center" valign="top" rowspan="1" colspan="1">8.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>4</bold>.</td><td align="center" colspan="3" valign="top" rowspan="1">
+<bold>Grade point average (mean = 4.1, SD = 0.66)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>5</bold>.</td><td align="center" colspan="3" valign="top" rowspan="1">
+<bold>Years of work experience</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">&lt; 1 year</td><td align="center" valign="top" rowspan="1" colspan="1">140</td><td align="center" valign="top" rowspan="1" colspan="1">46.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">1–2 years</td><td align="center" valign="top" rowspan="1" colspan="1">29</td><td align="center" valign="top" rowspan="1" colspan="1">9.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">3–4 years</td><td align="center" valign="top" rowspan="1" colspan="1">114</td><td align="center" valign="top" rowspan="1" colspan="1">37.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">5–6 years</td><td align="center" valign="top" rowspan="1" colspan="1">21</td><td align="center" valign="top" rowspan="1" colspan="1">6.9</td></tr></tbody></table></table-wrap></sec><sec id="nop270386-sec-0016"><label>3.2</label><title>General Perceptions of AI Applications</title><p>The overall perception of AI among nursing students was high (mean = 3.67, SD = 0.91). Among the three dimensions, the advantages of AI had the highest mean score (mean = 3.99, SD = 0.81), followed by perceptions of AI (mean = 3.56, SD = 0.96) and AI applications in healthcare (mean = 3.40, SD = 0.96) (Table <xref rid="nop270386-tbl-0002" ref-type="table">2</xref>).</p><table-wrap position="float" id="nop270386-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>General perception of nursing students on the use of artificial intelligence applications (<italic toggle="no">n</italic> = 304).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="2" valign="bottom" rowspan="1">Perceptions of the use of artificial intelligence applications</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean</th><th align="center" valign="bottom" rowspan="1" colspan="1">SD</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<bold>Dimension 1. Perceptions of AI</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1.1</td><td align="center" valign="top" rowspan="1" colspan="1">I have good knowledge of AI</td><td align="center" valign="top" rowspan="1" colspan="1">3.63</td><td align="center" valign="top" rowspan="1" colspan="1">0.85</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1.2</td><td align="center" valign="top" rowspan="1" colspan="1">AI capabilities are greater than human knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">3.54</td><td align="center" valign="top" rowspan="1" colspan="1">0.99</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1.3</td><td align="center" valign="top" rowspan="1" colspan="1">AI could substitute me in my work</td><td align="center" valign="top" rowspan="1" colspan="1">3.13</td><td align="center" valign="top" rowspan="1" colspan="1">1.24</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1.4</td><td align="center" valign="top" rowspan="1" colspan="1">I have hopes about AI applications in the healthcare settings</td><td align="center" valign="top" rowspan="1" colspan="1">4.08</td><td align="center" valign="top" rowspan="1" colspan="1">0.74</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Average mean</td><td align="center" valign="top" rowspan="1" colspan="1">3.56</td><td align="center" valign="top" rowspan="1" colspan="1">0.96</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<bold>Dimension 2. The advantages of using AI</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.1</td><td align="center" valign="top" rowspan="1" colspan="1">AI can improve the practice of healthcare</td><td align="center" valign="top" rowspan="1" colspan="1">4.13</td><td align="center" valign="top" rowspan="1" colspan="1">0.75</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.2</td><td align="center" valign="top" rowspan="1" colspan="1">AI can decrease the number of medical mistakes</td><td align="center" valign="top" rowspan="1" colspan="1">4.01</td><td align="center" valign="top" rowspan="1" colspan="1">0.81</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.3</td><td align="center" valign="top" rowspan="1" colspan="1">AI can offer clinically relevant, high‐quality data</td><td align="center" valign="top" rowspan="1" colspan="1">4.03</td><td align="center" valign="top" rowspan="1" colspan="1">0.84</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.4</td><td align="center" valign="top" rowspan="1" colspan="1">AI has no space–time limitation</td><td align="center" valign="top" rowspan="1" colspan="1">3.81</td><td align="center" valign="top" rowspan="1" colspan="1">0.87</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.5</td><td align="center" valign="top" rowspan="1" colspan="1">AI has no emotive exhaustion or physical constraints</td><td align="center" valign="top" rowspan="1" colspan="1">3.99</td><td align="center" valign="top" rowspan="1" colspan="1">0.77</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Average mean</td><td align="center" valign="top" rowspan="1" colspan="1">3.99</td><td align="center" valign="top" rowspan="1" colspan="1">0.81</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<bold>Dimension 3. The application of AI in healthcare</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3.1</td><td align="center" valign="top" rowspan="1" colspan="1">AI cannot be used to offer ideas in unexpected conditions</td><td align="center" valign="top" rowspan="1" colspan="1">3.33</td><td align="center" valign="top" rowspan="1" colspan="1">0.95</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3.2</td><td align="center" valign="top" rowspan="1" colspan="1">AI is not flexible enough to be useful for every patient</td><td align="center" valign="top" rowspan="1" colspan="1">3.37</td><td align="center" valign="top" rowspan="1" colspan="1">1.03</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3.3</td><td align="center" valign="top" rowspan="1" colspan="1">AI is difficult to apply to arguable subjects</td><td align="center" valign="top" rowspan="1" colspan="1">3.28</td><td align="center" valign="top" rowspan="1" colspan="1">0.92</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3.4</td><td align="center" valign="top" rowspan="1" colspan="1">AI has a low capability to empathise and reflect the emotional well‐being of the patient</td><td align="center" valign="top" rowspan="1" colspan="1">3.71</td><td align="center" valign="top" rowspan="1" colspan="1">0.97</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3.5</td><td align="center" valign="top" rowspan="1" colspan="1">AI was established by a specialist with slight clinical experience in medical practice</td><td align="center" valign="top" rowspan="1" colspan="1">3.31</td><td align="center" valign="top" rowspan="1" colspan="1">0.94</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Average mean</td><td align="center" valign="top" rowspan="1" colspan="1">3.40</td><td align="center" valign="top" rowspan="1" colspan="1">0.96</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">
+<bold>Overall mean</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">3.67</td><td align="center" valign="top" rowspan="1" colspan="1">0.91</td></tr></tbody></table></table-wrap><p>Within the advantages dimension, the highest‐rated items were ‘AI can improve the practice of healthcare’ (mean = 4.13, SD = 0.75) and ‘AI can offer clinically relevant, high‐quality data’ (mean = 4.03, SD = 0.85). The lowest‐rated item was ‘AI has no space‐time limitation’ (mean = 3.81, SD = 0.87).</p><p>In the perceptions dimension, ‘I have hopes about AI applications in healthcare settings’ scored highest (mean = 4.08, SD = 0.74), followed by ‘I have good knowledge of AI’ (mean = 3.63, SD = 0.85). The lowest‐rated item was ‘AI could substitute me in my work’ (mean = 3.13, SD = 1.24).</p><p>For the application dimension, the top items were ‘AI has a low capability to empathise and reflect the emotional well‐being of the patient’ (mean = 3.71, SD = 0.97) and ‘AI is not flexible enough to be useful for every patient’ (mean = 3.37, SD = 1.03). The lowest‐rated item was ‘AI is difficult to apply to arguable subjects, such as making definitive patient diagnoses’ (mean = 3.28, SD = 0.92). Figure <xref rid="nop270386-fig-0001" ref-type="fig">1</xref> illustrates the mean scores for perception and readiness.</p><fig position="float" fig-type="FIGURE" id="nop270386-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Mean score of the nursing students' perception of and readiness for using AI.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="NOP2-12-e70386-g001.jpg"><?image-name NOP2-12-e70386-g001.jpg?><?image-size 75667?><?image-md5 9bad9040561b450a74c21d18346fecf0?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 708?><?image-original-width 1064?><?image-scaled-height 472?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/30b4/12671569/9bad9040561b/NOP2-12-e70386-g001.jpg?><?thumb-name NOP2-12-e70386-g001.gif?><?thumb-size 4095?><?thumb-md5 5727ca1ad6f368592ec65e60cc1dc2d9?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 120?><?thumb-cloudpmc-urn urn:cdn:blobs/30b4/12671569/5727ca1ad6f3/NOP2-12-e70386-g001.gif?></graphic></fig></sec><sec id="nop270386-sec-0017"><label>3.3</label><title>Readiness of Nursing Students for Medical AI</title><p>Overall readiness for AI was high, with a mean score of 3.79 (SD = 0.74) on the MAIRS‐MS (Table <xref rid="nop270386-tbl-0003" ref-type="table">3</xref>, Figure <xref rid="nop270386-fig-0001" ref-type="fig">1</xref>).</p><table-wrap position="float" id="nop270386-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>General perception of nursing students on medical artificial intelligence readiness (<italic toggle="no">n</italic> = 304).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="2" valign="bottom" rowspan="1">Medical Artificial Intelligence Readiness Scale for Medical Students (MAIRS‐MS)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean</th><th align="center" valign="bottom" rowspan="1" colspan="1">SD</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<bold>Dimension 1. Cognition</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1.1</td><td align="center" valign="top" rowspan="1" colspan="1">I can define the basic concepts of data science</td><td align="center" valign="top" rowspan="1" colspan="1">3.84</td><td align="center" valign="top" rowspan="1" colspan="1">0.64</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1.2</td><td align="center" valign="top" rowspan="1" colspan="1">I can define the basic concepts of statistics</td><td align="center" valign="top" rowspan="1" colspan="1">3.97</td><td align="center" valign="top" rowspan="1" colspan="1">0.66</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1.3</td><td align="center" valign="top" rowspan="1" colspan="1">I can explain how AI systems are trained</td><td align="center" valign="top" rowspan="1" colspan="1">3.40</td><td align="center" valign="top" rowspan="1" colspan="1">0.94</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1.4</td><td align="center" valign="top" rowspan="1" colspan="1">I can define the basic concepts and terminology of AI</td><td align="center" valign="top" rowspan="1" colspan="1">3.54</td><td align="center" valign="top" rowspan="1" colspan="1">0.91</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1.5</td><td align="center" valign="top" rowspan="1" colspan="1">I can properly analyse the data obtained by AI in healthcare</td><td align="center" valign="top" rowspan="1" colspan="1">3.88</td><td align="center" valign="top" rowspan="1" colspan="1">0.80</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1.6</td><td align="center" valign="top" rowspan="1" colspan="1">I can differentiate between the functions and features of AI‐related tools and applications</td><td align="center" valign="top" rowspan="1" colspan="1">3.67</td><td align="center" valign="top" rowspan="1" colspan="1">0.72</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1.7</td><td align="center" valign="top" rowspan="1" colspan="1">I can organise workflows in accordance with the logic of AI</td><td align="center" valign="top" rowspan="1" colspan="1">3.67</td><td align="center" valign="top" rowspan="1" colspan="1">0.68</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1.8</td><td align="center" valign="top" rowspan="1" colspan="1">I can express the importance of data collection, analysis, evaluation and safety; for the development of AI in healthcare</td><td align="center" valign="top" rowspan="1" colspan="1">3.82</td><td align="center" valign="top" rowspan="1" colspan="1">0.69</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Average mean</td><td align="center" valign="top" rowspan="1" colspan="1">3.72</td><td align="center" valign="top" rowspan="1" colspan="1">0.76</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<bold>Dimension 2. Ability</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.1</td><td align="center" valign="top" rowspan="1" colspan="1">I can use AI‐based information in combination with my professional knowledge</td><td align="center" valign="top" rowspan="1" colspan="1">3.80</td><td align="center" valign="top" rowspan="1" colspan="1">0.66</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.2</td><td align="center" valign="top" rowspan="1" colspan="1">I can use AI technologies effectively and efficiently in healthcare delivery</td><td align="center" valign="top" rowspan="1" colspan="1">3.88</td><td align="center" valign="top" rowspan="1" colspan="1">0.65</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.3</td><td align="center" valign="top" rowspan="1" colspan="1">I can use artificial intelligence applications in accordance with its purpose</td><td align="center" valign="top" rowspan="1" colspan="1">3.88</td><td align="center" valign="top" rowspan="1" colspan="1">0.65</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.4</td><td align="center" valign="top" rowspan="1" colspan="1">I can access, evaluate, use, share and create new knowledge using information and communication technologies</td><td align="center" valign="top" rowspan="1" colspan="1">3.94</td><td align="center" valign="top" rowspan="1" colspan="1">0.71</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.5</td><td align="center" valign="top" rowspan="1" colspan="1">I can explain how AI applications in healthcare offer a solution to which problem</td><td align="center" valign="top" rowspan="1" colspan="1">3.84</td><td align="center" valign="top" rowspan="1" colspan="1">0.75</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.6</td><td align="center" valign="top" rowspan="1" colspan="1">I find it valuable to use AI for education, service and research purposes</td><td align="center" valign="top" rowspan="1" colspan="1">3.99</td><td align="center" valign="top" rowspan="1" colspan="1">0.75</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.7</td><td align="center" valign="top" rowspan="1" colspan="1">I can explain the AI applications used in healthcare services to the patient</td><td align="center" valign="top" rowspan="1" colspan="1">3.72</td><td align="center" valign="top" rowspan="1" colspan="1">0.82</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2.8</td><td align="center" valign="top" rowspan="1" colspan="1">I can choose the proper AI application for the problem encountered in healthcare</td><td align="center" valign="top" rowspan="1" colspan="1">3.79</td><td align="center" valign="top" rowspan="1" colspan="1">0.70</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Average mean</td><td align="center" valign="top" rowspan="1" colspan="1">3.86</td><td align="center" valign="top" rowspan="1" colspan="1">0.71</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<bold>Dimension 3. Vision</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3.1</td><td align="center" valign="top" rowspan="1" colspan="1">I can explain the limitations of AI technology</td><td align="center" valign="top" rowspan="1" colspan="1">3.62</td><td align="center" valign="top" rowspan="1" colspan="1">0.82</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3.2</td><td align="center" valign="top" rowspan="1" colspan="1">I can explain the strengths and weaknesses of AI technology</td><td align="center" valign="top" rowspan="1" colspan="1">3.79</td><td align="center" valign="top" rowspan="1" colspan="1">0.73</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3.3</td><td align="center" valign="top" rowspan="1" colspan="1">I can foresee the opportunities and threats that AI technology can create</td><td align="center" valign="top" rowspan="1" colspan="1">3.65</td><td align="center" valign="top" rowspan="1" colspan="1">0.79</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Average mean</td><td align="center" valign="top" rowspan="1" colspan="1">3.69</td><td align="center" valign="top" rowspan="1" colspan="1">0.78</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<bold>Dimension 4. Ethics</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">4.1</td><td align="center" valign="top" rowspan="1" colspan="1">I can use health data in accordance with legal and ethical norms</td><td align="center" valign="top" rowspan="1" colspan="1">3.87</td><td align="center" valign="top" rowspan="1" colspan="1">0.67</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">4.2</td><td align="center" valign="top" rowspan="1" colspan="1">I can act in accordance with ethical principles while using AI technologies</td><td align="center" valign="top" rowspan="1" colspan="1">3.85</td><td align="center" valign="top" rowspan="1" colspan="1">0.76</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">4.3</td><td align="center" valign="top" rowspan="1" colspan="1">I can follow the legal regulations regarding the use of AI technologies in healthcare</td><td align="center" valign="top" rowspan="1" colspan="1">4.00</td><td align="center" valign="top" rowspan="1" colspan="1">0.71</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">Average mean</td><td align="center" valign="top" rowspan="1" colspan="1">3.91</td><td align="center" valign="top" rowspan="1" colspan="1">0.71</td></tr><tr><td align="left" colspan="2" valign="top" rowspan="1">
+<bold>Overall mean</bold>
+</td><td align="center" valign="top" rowspan="1" colspan="1">3.79</td><td align="center" valign="top" rowspan="1" colspan="1">0.74</td></tr></tbody></table></table-wrap><sec id="nop270386-sec-0018"><label>3.3.1</label><title>Cognition</title><p>The highest‐rated items were ‘I can define the basic concepts of statistics’ (mean = 3.97, SD = 0.66), ‘I can properly analyse data obtained by AI in healthcare’ (mean = 3.88, SD = 0.80), and ‘I can define the basic concepts of data science’ (mean = 3.84, SD = 0.64). The lowest rated item was ‘I can explain how AI systems are trained’ (mean = 3.40, SD = 0.94).</p></sec><sec id="nop270386-sec-0019"><label>3.3.2</label><title>Ability</title><p>The highest mean was reported for ‘I find it valuable to use AI for education, service, and research purposes’ (mean = 3.99, SD = 0.75). ‘I can use AI technologies effectively and efficiently in healthcare delivery’ and ‘I can use AI applications in accordance with their purpose’ both scored 3.88 (SD = 0.65).</p></sec><sec id="nop270386-sec-0020"><label>3.3.3</label><title>Vision</title><p>The highest‐rated item was ‘I can explain the strengths and weaknesses of AI technology’ (mean = 3.79, SD = 0.73), and the lowest was ‘I can explain the limitations of AI technology’ (mean = 3.62, SD = 0.82).</p></sec><sec id="nop270386-sec-0021"><label>3.3.4</label><title>Ethics</title><p>‘I can follow the legal regulations regarding the use of AI technologies in healthcare’ scored highest (mean = 4.00, SD = 0.71), whereas ‘I can act in accordance with ethical principles while using AI technologies’ scored lowest (mean = 3.85, SD = 0.76).</p></sec></sec><sec id="nop270386-sec-0022"><label>3.4</label><title>Predictors of Medical AI Readiness</title><p>Multiple regression analysis revealed that demographic factors and perceptions of AI significantly predicted medical AI readiness (Table <xref rid="nop270386-tbl-0004" ref-type="table">4</xref>). The model was statistically significant (<italic toggle="yes">p</italic> &lt; 0.05). Key findings included:</p><table-wrap position="float" id="nop270386-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>Multiple regression with demographic profiles and perceptions of the use of artificial intelligence applications as predictors of medical artificial intelligence readiness (<italic toggle="no">n</italic> = 304).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Demographic profiles as predictors of</th><th align="center" rowspan="2" valign="bottom" colspan="1">Standardised beta coefficients</th><th align="center" rowspan="2" valign="bottom" colspan="1">
+<italic toggle="yes">t</italic> (<italic toggle="yes">p</italic>)</th><th align="center" rowspan="2" valign="bottom" colspan="1">95% CI lower limit–upper limit</th><th align="center" colspan="2" valign="bottom" rowspan="1">Collinearity statistics</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">VIF</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="6" valign="top" rowspan="1">
+<bold>Perceptions of the use of AI applications (<italic toggle="yes">R</italic>
+</bold>
+<sup>
+<bold>2</bold>
+</sup> 
+<bold>= 0.036, <italic toggle="yes">F</italic> = 2.252)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age</td><td align="center" valign="top" rowspan="1" colspan="1">0.12</td><td align="center" valign="top" rowspan="1" colspan="1">1.98 (0.049<xref rid="nop270386-note-0001" ref-type="table-fn">*</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.00 to 1.75</td><td align="center" valign="top" rowspan="1" colspan="1">0.939</td><td align="center" valign="top" rowspan="1" colspan="1">1.065</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender</td><td align="center" valign="top" rowspan="1" colspan="1">−0.08</td><td align="center" valign="top" rowspan="1" colspan="1">−1.43 (0.153)</td><td align="center" valign="top" rowspan="1" colspan="1">−3.48 to 0.55</td><td align="center" valign="top" rowspan="1" colspan="1">0.950</td><td align="center" valign="top" rowspan="1" colspan="1">1.053</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Highest educational attainment</td><td align="center" valign="top" rowspan="1" colspan="1">−0.01</td><td align="center" valign="top" rowspan="1" colspan="1">−0.08 (0.934)</td><td align="center" valign="top" rowspan="1" colspan="1">−1.93 to 1.78</td><td align="center" valign="top" rowspan="1" colspan="1">0.910</td><td align="center" valign="top" rowspan="1" colspan="1">1.099</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Grade point average</td><td align="center" valign="top" rowspan="1" colspan="1">0.03</td><td align="center" valign="top" rowspan="1" colspan="1">0.45 (0.656)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.76 to 1.20</td><td align="center" valign="top" rowspan="1" colspan="1">0.995</td><td align="center" valign="top" rowspan="1" colspan="1">1.005</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Years of work experience</td><td align="center" valign="top" rowspan="1" colspan="1">−0.12</td><td align="center" valign="top" rowspan="1" colspan="1">−1.15 (0.250)</td><td align="center" valign="top" rowspan="1" colspan="1">−1.81 to 0.47</td><td align="center" valign="top" rowspan="1" colspan="1">0.987</td><td align="center" valign="top" rowspan="1" colspan="1">1.013</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Demographic profiles as predictors of</th><th align="center" rowspan="2" valign="bottom" colspan="1">Standardised beta coefficients</th><th align="center" rowspan="2" valign="bottom" colspan="1">
+<italic toggle="yes">t</italic> (<italic toggle="yes">p</italic>)</th><th align="center" rowspan="2" valign="bottom" colspan="1">95% CI lower limit–upper limit</th><th align="center" colspan="2" valign="bottom" rowspan="1">Collinearity statistics</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Tolerance</th><th align="center" valign="bottom" rowspan="1" colspan="1">VIF</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="6" valign="top" rowspan="1">
+<bold>Dimension 1. Cognition (<italic toggle="yes">R</italic>
+</bold>
+<sup>
+<bold>2</bold>
+</sup> 
+<bold>= 0.095, <italic toggle="yes">F</italic> = 3.851, <italic toggle="yes">p</italic> &lt; 0.05)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age</td><td align="center" valign="top" rowspan="1" colspan="1">0.07</td><td align="center" valign="top" rowspan="1" colspan="1">1.21 (0.226)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.25 to 1.03</td><td align="center" valign="top" rowspan="1" colspan="1">0.928</td><td align="center" valign="top" rowspan="1" colspan="1">1.078</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender</td><td align="center" valign="top" rowspan="1" colspan="1">−0.13</td><td align="center" valign="top" rowspan="1" colspan="1">−2.19 (0.029<xref rid="nop270386-note-0001" ref-type="table-fn">*</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">−3.12 to −0.17</td><td align="center" valign="top" rowspan="1" colspan="1">0.911</td><td align="center" valign="top" rowspan="1" colspan="1">1.097</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Highest educational attainment</td><td align="center" valign="top" rowspan="1" colspan="1">−0.20</td><td align="center" valign="top" rowspan="1" colspan="1">−1.90 (0.058)</td><td align="center" valign="top" rowspan="1" colspan="1">−2.65 to 0.05</td><td align="center" valign="top" rowspan="1" colspan="1">0.876</td><td align="center" valign="top" rowspan="1" colspan="1">1.141</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Grade point average</td><td align="center" valign="top" rowspan="1" colspan="1">−0.01</td><td align="center" valign="top" rowspan="1" colspan="1">−0.17 (0.862)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.77 to 0.65</td><td align="center" valign="top" rowspan="1" colspan="1">0.988</td><td align="center" valign="top" rowspan="1" colspan="1">1.013</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Years of work experience</td><td align="center" valign="top" rowspan="1" colspan="1">0.12</td><td align="center" valign="top" rowspan="1" colspan="1">1.15 (0.250)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.35 to 1.32</td><td align="center" valign="top" rowspan="1" colspan="1">0.976</td><td align="center" valign="top" rowspan="1" colspan="1">1.024</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 1. Perceptions of AI</td><td align="center" valign="top" rowspan="1" colspan="1">0.04</td><td align="center" valign="top" rowspan="1" colspan="1">0.54 (0.588)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.16 to −0.28</td><td align="center" valign="top" rowspan="1" colspan="1">0.824</td><td align="center" valign="top" rowspan="1" colspan="1">1.214</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 2. The advantages of using AI</td><td align="center" valign="top" rowspan="1" colspan="1">0.14</td><td align="center" valign="top" rowspan="1" colspan="1">2.20 (0.029<xref rid="nop270386-note-0001" ref-type="table-fn">*</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.02 to −0.38</td><td align="center" valign="top" rowspan="1" colspan="1">0.871</td><td align="center" valign="top" rowspan="1" colspan="1">1.149</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 3. The application of AI in healthcare</td><td align="center" valign="top" rowspan="1" colspan="1">0.04</td><td align="center" valign="top" rowspan="1" colspan="1">0.69 (0.489)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.10 to −0.20</td><td align="center" valign="top" rowspan="1" colspan="1">0.917</td><td align="center" valign="top" rowspan="1" colspan="1">1.091</td></tr><tr><td align="left" colspan="6" valign="top" rowspan="1">
+<bold>Dimension 2. Ability (<italic toggle="yes">R</italic>
+</bold>
+<sup>
+<bold>2</bold>
+</sup> 
+<bold>= 0.185, <italic toggle="yes">F</italic> = 8.371, <italic toggle="yes">p</italic> &lt; 0.05)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age</td><td align="center" valign="top" rowspan="1" colspan="1">0.02</td><td align="center" valign="top" rowspan="1" colspan="1">0.42 (0.674)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.51 to 0.79</td><td align="center" valign="top" rowspan="1" colspan="1">0.928</td><td align="center" valign="top" rowspan="1" colspan="1">1.078</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender</td><td align="center" valign="top" rowspan="1" colspan="1">−0.06</td><td align="center" valign="top" rowspan="1" colspan="1">−0.97 (0.334)</td><td align="center" valign="top" rowspan="1" colspan="1">−2.23 to 0.76</td><td align="center" valign="top" rowspan="1" colspan="1">0.911</td><td align="center" valign="top" rowspan="1" colspan="1">1.097</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Highest educational attainment</td><td align="center" valign="top" rowspan="1" colspan="1">−0.29</td><td align="center" valign="top" rowspan="1" colspan="1">−2.90 (0.004<xref rid="nop270386-note-1001" ref-type="table-fn">**</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">−3.37 to −0.64</td><td align="center" valign="top" rowspan="1" colspan="1">0.876</td><td align="center" valign="top" rowspan="1" colspan="1">1.141</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Grade point average</td><td align="center" valign="top" rowspan="1" colspan="1">0.00</td><td align="center" valign="top" rowspan="1" colspan="1">−0.03 (0.974)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.73 to 0.71</td><td align="center" valign="top" rowspan="1" colspan="1">0.988</td><td align="center" valign="top" rowspan="1" colspan="1">1.013</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Years of work experience</td><td align="center" valign="top" rowspan="1" colspan="1">0.21</td><td align="center" valign="top" rowspan="1" colspan="1">1.99 (0.048<xref rid="nop270386-note-0001" ref-type="table-fn">*</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.01 to 1.70</td><td align="center" valign="top" rowspan="1" colspan="1">0.976</td><td align="center" valign="top" rowspan="1" colspan="1">1.024</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 1. Perceptions of AI</td><td align="center" valign="top" rowspan="1" colspan="1">0.13</td><td align="center" valign="top" rowspan="1" colspan="1">2.03 (0.044<xref rid="nop270386-note-0001" ref-type="table-fn">*</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.01 to 0.45</td><td align="center" valign="top" rowspan="1" colspan="1">0.824</td><td align="center" valign="top" rowspan="1" colspan="1">1.214</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 2. The advantages of using AI</td><td align="center" valign="top" rowspan="1" colspan="1">0.17</td><td align="center" valign="top" rowspan="1" colspan="1">2.75 (0.006<xref rid="nop270386-note-1001" ref-type="table-fn">**</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.07 to 0.44</td><td align="center" valign="top" rowspan="1" colspan="1">0.871</td><td align="center" valign="top" rowspan="1" colspan="1">1.149</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 3. The application of AI in healthcare</td><td align="center" valign="top" rowspan="1" colspan="1">0.02</td><td align="center" valign="top" rowspan="1" colspan="1">0.40 (0.687)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.12 to 0.18</td><td align="center" valign="top" rowspan="1" colspan="1">0.917</td><td align="center" valign="top" rowspan="1" colspan="1">1.091</td></tr><tr><td align="left" colspan="6" valign="top" rowspan="1">
+<bold>Dimension 3. Vision (<italic toggle="yes">R</italic>
+</bold>
+<sup>
+<bold>2</bold>
+</sup> 
+<bold>= 0.119, <italic toggle="yes">F</italic> = 5.002, <italic toggle="yes">p</italic> &lt; 0.05)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age</td><td align="center" valign="top" rowspan="1" colspan="1">−0.04</td><td align="center" valign="top" rowspan="1" colspan="1">−0.73 (0.465)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.43 to 0.20</td><td align="center" valign="top" rowspan="1" colspan="1">0.928</td><td align="center" valign="top" rowspan="1" colspan="1">1.078</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender</td><td align="center" valign="top" rowspan="1" colspan="1">−0.14</td><td align="center" valign="top" rowspan="1" colspan="1">−2.40 (0.017<xref rid="nop270386-note-0001" ref-type="table-fn">*</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">−1.60 to −0.16</td><td align="center" valign="top" rowspan="1" colspan="1">0.911</td><td align="center" valign="top" rowspan="1" colspan="1">1.097</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Highest educational attainment</td><td align="center" valign="top" rowspan="1" colspan="1">−0.14</td><td align="center" valign="top" rowspan="1" colspan="1">−1.38 (0.169)</td><td align="center" valign="top" rowspan="1" colspan="1">−1.12 to 0.20</td><td align="center" valign="top" rowspan="1" colspan="1">0.876</td><td align="center" valign="top" rowspan="1" colspan="1">1.141</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Grade point average</td><td align="center" valign="top" rowspan="1" colspan="1">0.10</td><td align="center" valign="top" rowspan="1" colspan="1">1.73 (0.085)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.04 to 0.65</td><td align="center" valign="top" rowspan="1" colspan="1">0.988</td><td align="center" valign="top" rowspan="1" colspan="1">1.013</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Years of work experience</td><td align="center" valign="top" rowspan="1" colspan="1">0.04</td><td align="center" valign="top" rowspan="1" colspan="1">0.35 (0.728)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.33 to 0.48</td><td align="center" valign="top" rowspan="1" colspan="1">0.976</td><td align="center" valign="top" rowspan="1" colspan="1">1.024</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 1. Perceptions of AI</td><td align="center" valign="top" rowspan="1" colspan="1">0.02</td><td align="center" valign="top" rowspan="1" colspan="1">0.30 (0.767)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.09 to 0.12</td><td align="center" valign="top" rowspan="1" colspan="1">0.824</td><td align="center" valign="top" rowspan="1" colspan="1">1.214</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 2. The advantages of using AI</td><td align="center" valign="top" rowspan="1" colspan="1">0.21</td><td align="center" valign="top" rowspan="1" colspan="1">3.26 (0.001<xref rid="nop270386-note-1001" ref-type="table-fn">**</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.06 to 0.23</td><td align="center" valign="top" rowspan="1" colspan="1">0.871</td><td align="center" valign="top" rowspan="1" colspan="1">1.149</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 3. The application of AI in healthcare</td><td align="center" valign="top" rowspan="1" colspan="1">0.01</td><td align="center" valign="top" rowspan="1" colspan="1">0.18 (0.856)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.07 to 0.08</td><td align="center" valign="top" rowspan="1" colspan="1">0.917</td><td align="center" valign="top" rowspan="1" colspan="1">1.091</td></tr><tr><td align="left" colspan="6" valign="top" rowspan="1">
+<bold>Dimension 4. Ethics (<italic toggle="yes">R</italic>
+</bold>
+<sup>
+<bold>2</bold>
+</sup> 
+<bold>= 0.1696, <italic toggle="yes">F</italic> = 7.336, <italic toggle="yes">p</italic> &lt; 0.05)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age</td><td align="center" valign="top" rowspan="1" colspan="1">0.08</td><td align="center" valign="top" rowspan="1" colspan="1">1.44 (0.150)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.11 to 0.44</td><td align="center" valign="top" rowspan="1" colspan="1">0.928</td><td align="center" valign="top" rowspan="1" colspan="1">1.078</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender</td><td align="center" valign="top" rowspan="1" colspan="1">0.00</td><td align="center" valign="top" rowspan="1" colspan="1">−0.02 (0.983)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.56 to 0.73</td><td align="center" valign="top" rowspan="1" colspan="1">0.911</td><td align="center" valign="top" rowspan="1" colspan="1">1.097</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Highest educational attainment</td><td align="center" valign="top" rowspan="1" colspan="1">−0.27</td><td align="center" valign="top" rowspan="1" colspan="1">−2.72 (0.007<xref rid="nop270386-note-1001" ref-type="table-fn">**</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">−1.23 to 0.00</td><td align="center" valign="top" rowspan="1" colspan="1">0.876</td><td align="center" valign="top" rowspan="1" colspan="1">1.141</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Grade point average</td><td align="center" valign="top" rowspan="1" colspan="1">0.12</td><td align="center" valign="top" rowspan="1" colspan="1">2.20 (0.029<xref rid="nop270386-note-0001" ref-type="table-fn">*</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.07 to 0.68</td><td align="center" valign="top" rowspan="1" colspan="1">0.988</td><td align="center" valign="top" rowspan="1" colspan="1">1.013</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Years of work experience</td><td align="center" valign="top" rowspan="1" colspan="1">0.03</td><td align="center" valign="top" rowspan="1" colspan="1">0.25 (0.801)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.29 to 0.22</td><td align="center" valign="top" rowspan="1" colspan="1">0.976</td><td align="center" valign="top" rowspan="1" colspan="1">1.024</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 1. Perceptions of AI</td><td align="center" valign="top" rowspan="1" colspan="1">0.11</td><td align="center" valign="top" rowspan="1" colspan="1">1.80 (0.074)</td><td align="center" valign="top" rowspan="1" colspan="1">0.06 to 0.33</td><td align="center" valign="top" rowspan="1" colspan="1">0.824</td><td align="center" valign="top" rowspan="1" colspan="1">1.214</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 2. The advantages of using AI</td><td align="center" valign="top" rowspan="1" colspan="1">0.07</td><td align="center" valign="top" rowspan="1" colspan="1">1.20 (0.232)</td><td align="center" valign="top" rowspan="1" colspan="1">0.04 to 0.29</td><td align="center" valign="top" rowspan="1" colspan="1">0.871</td><td align="center" valign="top" rowspan="1" colspan="1">1.149</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 3. The application of AI in healthcare</td><td align="center" valign="top" rowspan="1" colspan="1">0.07</td><td align="center" valign="top" rowspan="1" colspan="1">1.21 (0.228)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.03 to 0.13</td><td align="center" valign="top" rowspan="1" colspan="1">0.917</td><td align="center" valign="top" rowspan="1" colspan="1">1.091</td></tr><tr><td align="left" colspan="6" valign="top" rowspan="1">
+<bold>Overall readiness (<italic toggle="yes">R</italic>
+</bold>
+<sup>
+<bold>2</bold>
+</sup> 
+<bold>= 0.172, <italic toggle="yes">F</italic> = 7.641, <italic toggle="yes">p</italic> &lt; 0.05)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age</td><td align="center" valign="top" rowspan="1" colspan="1">0.04</td><td align="center" valign="top" rowspan="1" colspan="1">0.77 (0.440)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.96 to 2.21</td><td align="center" valign="top" rowspan="1" colspan="1">0.928</td><td align="center" valign="top" rowspan="1" colspan="1">1.078</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender</td><td align="center" valign="top" rowspan="1" colspan="1">−0.10</td><td align="center" valign="top" rowspan="1" colspan="1">−1.75 (0.081)</td><td align="center" valign="top" rowspan="1" colspan="1">−6.94 to 0.40</td><td align="center" valign="top" rowspan="1" colspan="1">0.911</td><td align="center" valign="top" rowspan="1" colspan="1">1.097</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Highest educational attainment</td><td align="center" valign="top" rowspan="1" colspan="1">−0.27</td><td align="center" valign="top" rowspan="1" colspan="1">−2.70 (0.007<xref rid="nop270386-note-1001" ref-type="table-fn">**</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">−7.94 to −1.25</td><td align="center" valign="top" rowspan="1" colspan="1">0.876</td><td align="center" valign="top" rowspan="1" colspan="1">1.141</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Grade point average</td><td align="center" valign="top" rowspan="1" colspan="1">0.04</td><td align="center" valign="top" rowspan="1" colspan="1">0.65 (0.518)</td><td align="center" valign="top" rowspan="1" colspan="1">−1.18 to 2.34</td><td align="center" valign="top" rowspan="1" colspan="1">0.988</td><td align="center" valign="top" rowspan="1" colspan="1">1.013</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Years of work experience</td><td align="center" valign="top" rowspan="1" colspan="1">0.14</td><td align="center" valign="top" rowspan="1" colspan="1">1.39 (0.166)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.61 to 3.53</td><td align="center" valign="top" rowspan="1" colspan="1">0.976</td><td align="center" valign="top" rowspan="1" colspan="1">1.024</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 1. Perceptions of AI</td><td align="center" valign="top" rowspan="1" colspan="1">0.09</td><td align="center" valign="top" rowspan="1" colspan="1">1.42 (0.156)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.15 to 0.94</td><td align="center" valign="top" rowspan="1" colspan="1">0.824</td><td align="center" valign="top" rowspan="1" colspan="1">1.214</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 2. The advantages of using AI</td><td align="center" valign="top" rowspan="1" colspan="1">0.18</td><td align="center" valign="top" rowspan="1" colspan="1">2.86 (0.004<xref rid="nop270386-note-1001" ref-type="table-fn">**</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.20 to 1.09</td><td align="center" valign="top" rowspan="1" colspan="1">0.871</td><td align="center" valign="top" rowspan="1" colspan="1">1.149</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dimension 3. The application of AI in healthcare</td><td align="center" valign="top" rowspan="1" colspan="1">0.04</td><td align="center" valign="top" rowspan="1" colspan="1">0.69 (0.488)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.24 to 0.49</td><td align="center" valign="top" rowspan="1" colspan="1">0.917</td><td align="center" valign="top" rowspan="1" colspan="1">1.091</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Overall perceptions of the use of artificial intelligence applications</td><td align="center" valign="top" rowspan="1" colspan="1">0.33</td><td align="center" valign="top" rowspan="1" colspan="1">2.86 (0.004<xref rid="nop270386-note-1001" ref-type="table-fn">**</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.20 to 1.09</td><td align="center" valign="top" rowspan="1" colspan="1">0.555</td><td align="center" valign="top" rowspan="1" colspan="1">1.801</td></tr></tbody></table><table-wrap-foot><fn id="nop270386-note-0001"><label>*</label><p>
+<italic toggle="yes">p</italic> &lt; 0.05.</p></fn><fn id="nop270386-note-1001"><label>**</label><p>
+<italic toggle="yes">p</italic> &lt; 0.01.</p></fn></table-wrap-foot></table-wrap><p>Age positively predicted perceptions of AI (<italic toggle="yes">B</italic> = 0.12, <italic toggle="yes">p</italic> = 0.049).</p><p>Gender negatively affected cognition (<italic toggle="yes">B</italic> = −0.13, <italic toggle="yes">p</italic> = 0.029) and vision (<italic toggle="yes">B</italic> = −0.14, <italic toggle="yes">p</italic> = 0.017).</p><p>Highest educational attainment negatively influenced ability (<italic toggle="yes">B</italic> = −0.29, <italic toggle="yes">p</italic> = 0.004), vision (<italic toggle="yes">B</italic> = −0.27, <italic toggle="yes">p</italic> = 0.007) and overall readiness (<italic toggle="yes">B</italic> = −0.27, <italic toggle="yes">p</italic> = 0.007).</p><p>GPA positively affected ethics (<italic toggle="yes">B</italic> = 0.12, <italic toggle="yes">p</italic> = 0.029).</p><p>Years of work experience positively predicted ability (<italic toggle="yes">B</italic> = 0.21, <italic toggle="yes">p</italic> = 0.048).</p><p>Perceptions of AI and the advantages of using AI were consistent positive predictors across multiple dimensions and overall readiness (<italic toggle="yes">p</italic> &lt; 0.05) (Table <xref rid="nop270386-tbl-0004" ref-type="table">4</xref>).</p><p>These findings indicate that both individual demographics and perceptions of AI significantly contribute to nursing students' preparedness to utilise AI in healthcare practice.</p></sec></sec><sec sec-type="discussion" id="nop270386-sec-0023"><label>4</label><title>Discussion</title><p>This study investigated the perception and readiness of nursing students to integrate AI applications into healthcare practice. The findings revealed that participants generally expressed positive perceptions of AI, consistent with recent studies conducted in various contexts (Hammoudi Halat et al. <xref rid="nop270386-bib-0020" ref-type="bibr">2024</xref>; Petersson et al. <xref rid="nop270386-bib-0033" ref-type="bibr">2022</xref>; Almalki et al. <xref rid="nop270386-bib-0008" ref-type="bibr">2025</xref>). Nursing students particularly acknowledged the potential of AI to improve healthcare practice and provide clinically relevant, high‐quality data. This supports earlier research suggesting that AI is increasingly viewed as a promising tool to enhance evidence‐based clinical decision‐making and patient outcomes (Hoelscher and Pugh <xref rid="nop270386-bib-0021" ref-type="bibr">2025</xref>; Cucci et al. <xref rid="nop270386-bib-0016" ref-type="bibr">2025</xref>).</p><p>However, participants also expressed concerns regarding AI's limitations, including its inability to empathise or adapt flexibly to diverse patient needs. Such findings echo previous reports highlighting that, despite AI's capacity for data analysis and predictive modelling, it cannot substitute the uniquely human aspects of nursing care, such as empathy, ethical judgement and holistic assessment (Rony et al. <xref rid="nop270386-bib-0038" ref-type="bibr">2025</xref>; Abuadas et al. <xref rid="nop270386-bib-0003" ref-type="bibr">2025</xref>).</p><p>With regard to readiness, students scored moderately high on the MAIRS‐MS scale, indicating a reasonable degree of preparedness to engage with medical AI. They demonstrated confidence in applying AI for education, service and research, as well as in understanding basic data science and statistical concepts. These results align with prior studies reporting similar readiness levels among healthcare students globally (Areshtanab et al. <xref rid="nop270386-bib-0011" ref-type="bibr">2025</xref>). Nonetheless, gaps were observed in more advanced competencies, such as explaining AI training systems and recognising AI's technical limitations, which suggests the need for targeted education and training (AL‐Olaimat et al. <xref rid="nop270386-bib-0009" ref-type="bibr">2025</xref>).</p><p>The regression analysis offered further insights by demonstrating that demographic and perceptual factors significantly predicted readiness. Specifically, higher educational attainment showed a negative association with certain readiness dimensions, while GPA and perceived advantages of AI were positively correlated. Gender differences were also noted, with female students reporting lower readiness in some areas. These results are in line with earlier literature emphasising the influence of both demographic characteristics and attitudes on healthcare students' acceptance of digital technologies.</p><p>Taken together, these findings underscore the need to strengthen nursing curricula by incorporating structured AI education and opportunities for experiential learning. Doing so will help bridge the gap between theoretical knowledge and practical application, thereby enabling future nurses to critically evaluate and utilise AI in ways that optimise patient care while upholding ethical and professional standards.</p><sec id="nop270386-sec-0024"><label>4.1</label><title>Limitations of the Study</title><p>Several limitations should be acknowledged. First, the study was conducted among a specific population of nursing students, which may limit generalisability to other healthcare disciplines or cultural contexts. Second, the cross‐sectional design restricts the ability to infer causal relationships between demographic characteristics, perceptions, and readiness. Third, the use of self‐reported measures raises the possibility of response bias, as participants may have under‐ or overestimated their competencies. Future research should therefore consider longitudinal designs, include diverse healthcare disciplines, and incorporate objective assessments of AI competence.</p></sec></sec><sec sec-type="conclusions" id="nop270386-sec-0025"><label>5</label><title>Conclusion</title><p>This study highlighted that nursing students hold positive perceptions of AI and demonstrate moderate readiness to engage with its applications in healthcare. While recognising the advantages of AI, students also noted concerns about its limitations and expressed gaps in advanced technical understanding. Regression analysis revealed that demographic and perceptual variables significantly influenced readiness, highlighting the complex interplay of knowledge, attitudes and context. These findings suggest an urgent need to integrate AI education into nursing curricula and provide students with practical opportunities to develop competence. Such initiatives will better prepare future nurses to engage with AI responsibly and effectively, ensuring its ethical use in improving healthcare delivery.</p></sec><sec id="nop270386-sec-0026"><title>Author Contributions</title><p>
+<bold>Safiya Salem Bakarman:</bold> conceptualisation, data curation, formal analysis, methodology, software, validation, writing – original draft, writing – review and editing. <bold>Alkadi Al‐shammari:</bold> conceptualisation, data curation, formal analysis, methodology, software, validation, writing – original draft, writing – review and editing. <bold>Ahmad Aboshaiqah:</bold> conceptualisation, data curation, formal analysis, methodology, software, validation, writing – original draft, writing – review and editing.</p></sec><sec id="nop270386-sec-0031"><title>Funding</title><p>This work was supported by the Ongoing Research Funding Program (ORF‐2025‐1298), King Saud University, Riyadh, Saudi Arabia.</p></sec><sec id="nop270386-sec-0032"><title>Ethics Statement</title><p>Ethical approval was obtained from the Institutional Review Board (IRB), King Saud University, Saudi Arabia (ethical approval no. SAU‐HE‐23‐804).</p></sec><sec sec-type="conclusions" id="nop270386-sec-0033"><title>Consent</title><p>This manuscript does not contain any individual's personal data; hence, the authors gave their consent for the publication of this manuscript.</p></sec><sec sec-type="COI-statement" id="nop270386-sec-0027"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="nop270386-sec-0028"><title>Acknowledgements</title><p>The authors of this study extend their appreciation to the Ongoing Research Funding Program (ORF‐2025‐1298), King Saud University, Riyadh, Saudi Arabia.</p></ack><sec sec-type="data-availability" id="nop270386-sec-0030"><title>Data Availability Statement</title><p>Research data are not shared.</p></sec><ref-list content-type="cited-references" id="nop270386-bibl-0001"><title>References</title><ref id="nop270386-bib-0001"><mixed-citation publication-type="journal" id="nop270386-cit-0001">
+<string-name name-style="western">
+<surname>Abdel‐Moaty</surname>, <given-names>M. A. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>El‐Molla</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Abdel‐Wahab</surname>
+</string-name>. <year>2024</year>. “<article-title>Nursing Interns' Perception About Artificial Intelligence Applications in Nursing</article-title>.” <source>Egyptian Nursing Journal</source>
+<volume>21</volume>, no. <issue>2</issue>: <fpage>121</fpage>–<lpage>128</lpage>.</mixed-citation></ref><ref id="nop270386-bib-0002"><mixed-citation publication-type="journal" id="nop270386-cit-0002">
+<string-name name-style="western">
+<surname>Abdullah</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Fakieh</surname>
+</string-name>. <year>2020</year>. “<article-title>Health Care Employees' Perceptions of the Use of Artificial Intelligence Applications: Survey Study</article-title>.” <source>Journal of Medical Internet Research</source>
+<volume>22</volume>: <elocation-id>e17620</elocation-id>.<pub-id pub-id-type="pmid">32406857</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/17620</pub-id><pub-id pub-id-type="pmcid">PMC7256754</pub-id></mixed-citation></ref><ref id="nop270386-bib-0003"><mixed-citation publication-type="journal" id="nop270386-cit-0003">
+<string-name name-style="western">
+<surname>Abuadas</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Albikawi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rayani</surname>
+</string-name>. <year>2025</year>. “<article-title>The Impact of an AI‐Focused Ethics Education Program on Nursing Students' AI Ethical Awareness, Moral Sensitivity, Attitudes, and Intentions</article-title>.” <source>BMC Nursing</source>
+<volume>24</volume>: <elocation-id>511</elocation-id>.<pub-id pub-id-type="pmid">40597065</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12912-025-03458-2</pub-id><pub-id pub-id-type="pmcid">PMC12211453</pub-id></mixed-citation></ref><ref id="nop270386-bib-0004"><mixed-citation publication-type="journal" id="nop270386-cit-0004">
+<string-name name-style="western">
+<surname>Ahmad</surname>, <given-names>M. N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Abdallah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Abbasi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Abdallah</surname>
+</string-name>. <year>2023</year>. “<article-title>Student Perspectives on the Integration of Artificial Intelligence Into Healthcare Services</article-title>.” <source>Digital Health</source>
+<volume>9</volume>: <elocation-id>20552076231174095</elocation-id>.<pub-id pub-id-type="pmid">37312954</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/20552076231174095</pub-id><pub-id pub-id-type="pmcid">PMC10259127</pub-id></mixed-citation></ref><ref id="nop270386-bib-0005"><mixed-citation publication-type="journal" id="nop270386-cit-0005">
+<string-name name-style="western">
+<surname>Al Omari</surname>, <given-names>O.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Alshammari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Al Jabri</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>Demographic Factors, Knowledge, Attitude and Perception and Their Association With Nursing Students' Intention to Use Artificial Intelligence (AI): A Multicentre Survey Across 10 Arab Countries</article-title>.” <source>BMC Medical Education</source>
+<volume>24</volume>: <fpage>1456</fpage>.<pub-id pub-id-type="pmid">39696341</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12909-024-06452-5</pub-id><pub-id pub-id-type="pmcid">PMC11653676</pub-id></mixed-citation></ref><ref id="nop270386-bib-0006"><mixed-citation publication-type="journal" id="nop270386-cit-0006">
+<string-name name-style="western">
+<surname>Alaqra</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Fischer‐Hübner</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Framner</surname>
+</string-name>. <year>2018</year>. “<article-title>Enhancing Privacy Controls for Patients via a Selective Authentic Electronic Health Record Exchange Service: Qualitative Study of Perspectives by Medical Professionals and Patients</article-title>.” <source>Journal of Medical Internet Research</source>
+<volume>20</volume>: <elocation-id>e10954</elocation-id>.<pub-id pub-id-type="pmid">30578189</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/10954</pub-id><pub-id pub-id-type="pmcid">PMC6322916</pub-id></mixed-citation></ref><ref id="nop270386-bib-0007"><mixed-citation publication-type="journal" id="nop270386-cit-0007">
+<string-name name-style="western">
+<surname>Alavi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D. C.</given-names>
+<surname>Visentin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. K.</given-names>
+<surname>Thapa</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Exploratory Factor Analysis and Principal Component Analysis in Clinical Studies: Which One Should You Use?</article-title>” <source>Journal of Advanced Nursing</source>
+<volume>76</volume>: <fpage>1886</fpage>–<lpage>1897</lpage>.<pub-id pub-id-type="pmid">32255218</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jan.14377</pub-id></mixed-citation></ref><ref id="nop270386-bib-0008"><mixed-citation publication-type="journal" id="nop270386-cit-0008">
+<string-name name-style="western">
+<surname>Almalki</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Alkhamis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Khairallah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. M.</given-names>
+<surname>Khairallah</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.‐A.</given-names>
+<surname>Choukou</surname>
+</string-name>. <year>2025</year>. “<article-title>Perceived Artificial Intelligence Readiness in Medical and Health Sciences Education: A Survey Study of Students in Saudi Arabia</article-title>.” <source>BMC Medical Education</source>
+<volume>25</volume>: <elocation-id>439</elocation-id>.<pub-id pub-id-type="pmid">40140763</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12909-025-06995-1</pub-id><pub-id pub-id-type="pmcid">PMC11938701</pub-id></mixed-citation></ref><ref id="nop270386-bib-0009"><mixed-citation publication-type="journal" id="nop270386-cit-0009">
+<string-name name-style="western">
+<surname>AL‐Olaimat</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Salameh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Abdullhalim Alqadi</surname>
+</string-name>, et al. <year>2025</year>. “<article-title>Readiness and Acceptance of Nursing Students Regarding AI‐Based Health Care Technology on the Training of Nursing Skills in Saudi Arabia: Cross‐Sectional Study</article-title>.” <source>JMIR Nursing</source>
+<volume>8</volume>: <elocation-id>e71653</elocation-id>.<pub-id pub-id-type="pmid">40737490</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/71653</pub-id><pub-id pub-id-type="pmcid">PMC12309859</pub-id></mixed-citation></ref><ref id="nop270386-bib-0010"><mixed-citation publication-type="journal" id="nop270386-cit-0010">
+<string-name name-style="western">
+<surname>Alsenany</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>O. A.</given-names>
+<surname>AlMaraira</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. E.‐S.</given-names>
+<surname>Mansour</surname>
+</string-name>. <year>2024</year>. “<article-title>Nursing Students' Perception and Attitudes Toward Utilization of Artificial Intelligence in Health Care</article-title>.” <source>Edelweiss Applied Science and Technology</source>
+<volume>8</volume>: <fpage>663</fpage>–<lpage>670</lpage>.</mixed-citation></ref><ref id="nop270386-bib-0011"><mixed-citation publication-type="journal" id="nop270386-cit-0011">
+<string-name name-style="western">
+<surname>Areshtanab</surname>, <given-names>H. N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Rahmani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vahidi</surname>
+</string-name>, et al. <year>2025</year>. “<article-title>Nurses' Perceptions and Use of Artificial Intelligence in Nursing Care: A Cross‐Sectional Study</article-title>.” <source>BMC Nursing</source>
+<volume>24</volume>: <fpage>612</fpage>.40437461
+</mixed-citation></ref><ref id="nop270386-bib-0012"><mixed-citation publication-type="journal" id="nop270386-cit-0012">
+<string-name name-style="western">
+<surname>Atalla</surname>, <given-names>A. D. G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>El‐Ashry</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Mohamed</surname>
+</string-name>. <year>2024</year>. “<article-title>The Moderating Role of Ethical Awareness in the Relationship Between Nurses' Artificial Intelligence Perceptions, Attitudes, and Innovative Work Behavior: A Cross‐Sectional Study</article-title>.” <source>BMC Nursing</source>
+<volume>23</volume>: <elocation-id>488</elocation-id>.<pub-id pub-id-type="pmid">39026317</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12912-024-02143-0</pub-id><pub-id pub-id-type="pmcid">PMC11256689</pub-id></mixed-citation></ref><ref id="nop270386-bib-0013"><mixed-citation publication-type="journal" id="nop270386-cit-0013">
+<string-name name-style="western">
+<surname>Bajwa</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Munir</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Nori</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Williams</surname>
+</string-name>. <year>2021</year>. “<article-title>Artificial Intelligence in Healthcare: Transforming the Practice of Medicine</article-title>.” <source>Future Healthcare Journal</source>
+<volume>8</volume>: <fpage>e188</fpage>–<lpage>e194</lpage>.<pub-id pub-id-type="pmid">34286183</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7861/fhj.2021-0095</pub-id><pub-id pub-id-type="pmcid">PMC8285156</pub-id></mixed-citation></ref><ref id="nop270386-bib-0014"><mixed-citation publication-type="journal" id="nop270386-cit-0014">
+<string-name name-style="western">
+<surname>Bedi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Masri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Hennawi</surname>
+</string-name>, et al. <year>2023</year>. “<article-title>The Integration of Artificial Intelligence Into Patient Care: A Case of Atrial Fibrillation Caught by a Smartwatch</article-title>.” <source>Cureus</source>
+<volume>15</volume>: <elocation-id>e35941</elocation-id>.<pub-id pub-id-type="pmid">37038562</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7759/cureus.35941</pub-id><pub-id pub-id-type="pmcid">PMC10082624</pub-id></mixed-citation></ref><ref id="nop270386-bib-0015"><mixed-citation publication-type="journal" id="nop270386-cit-0015">
+<string-name name-style="western">
+<surname>Chikhaoui</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Alajmi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Marie‐Sainte</surname>
+</string-name>. <year>2022</year>. “<article-title>Artificial Intelligence Applications in Healthcare Sector: Ethical and Legal Challenges</article-title>.” <source>Emerging Science Journal</source>
+<volume>6</volume>: <fpage>717</fpage>–<lpage>728</lpage>.</mixed-citation></ref><ref id="nop270386-bib-0016"><mixed-citation publication-type="journal" id="nop270386-cit-0016">
+<string-name name-style="western">
+<surname>Cucci</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Marasciulo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Romani</surname>
+</string-name>, et al. <year>2025</year>. “<article-title>The Contribution of Artificial Intelligence in Nursing Education: A Scoping Review</article-title>.” <source>Nursing Reports</source>
+<volume>15</volume>: <fpage>283</fpage>–<lpage>295</lpage>.<pub-id pub-id-type="pmid">40863670</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/nursrep15080283</pub-id><pub-id pub-id-type="pmcid">PMC12389495</pub-id></mixed-citation></ref><ref id="nop270386-bib-0017"><mixed-citation publication-type="journal" id="nop270386-cit-0017">
+<string-name name-style="western">
+<surname>Demir‐Kaymak</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Turan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Unlu‐Bidik</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Unkazan</surname>
+</string-name>. <year>2024</year>. “<article-title>Effects of Midwifery and Nursing Students' Readiness About Medical Artificial Intelligence on Artificial Intelligence Anxiety</article-title>.” <source>Nurse Education in Practice</source>
+<volume>78</volume>: <elocation-id>103994</elocation-id>.<pub-id pub-id-type="pmid">38810350</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.nepr.2024.103994</pub-id></mixed-citation></ref><ref id="nop270386-bib-0018"><mixed-citation publication-type="journal" id="nop270386-cit-0018">
+<string-name name-style="western">
+<surname>El‐Sayed</surname>, <given-names>B. K. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. A. I.</given-names>
+<surname>El‐Sayed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Alsenany</surname>
+</string-name>, et al. <year>2025</year>. “<article-title>The Role of Artificial Intelligence Literacy and Innovation Mindset in Shaping Nursing Students' Career and Talent Self‐Efficacy</article-title>.” <source>Nurse Education in Practice</source>
+<volume>82</volume>: <elocation-id>104208</elocation-id>.<pub-id pub-id-type="pmid">39637623</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.nepr.2024.104208</pub-id></mixed-citation></ref><ref id="nop270386-bib-0019"><mixed-citation publication-type="journal" id="nop270386-cit-0019">
+<string-name name-style="western">
+<surname>Glauberman</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ito‐Fujita</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Katz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Callahan</surname>
+</string-name>. <year>2023</year>. “<article-title>Artificial Intelligence in Nursing Education: Opportunities and Challenges</article-title>.” <source>Hawai'i Journal of Health &amp; Social Welfare</source>
+<volume>82</volume>: <fpage>302</fpage>–<lpage>305</lpage>.<pub-id pub-id-type="pmid">38093763</pub-id>
+<pub-id pub-id-type="pmcid">PMC10713739</pub-id></mixed-citation></ref><ref id="nop270386-bib-0020"><mixed-citation publication-type="journal" id="nop270386-cit-0020">
+<string-name name-style="western">
+<surname>Hammoudi Halat</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Shami</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Daud</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Sami</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Soltani</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Malki</surname>
+</string-name>. <year>2024</year>. “<article-title>Artificial Intelligence Readiness, Perceptions, and Educational Needs Among Dental Students: A Cross‐Sectional Study</article-title>.” <source>Clinical and Experimental Dental Research</source>
+<volume>10</volume>: <elocation-id>e925</elocation-id>.<pub-id pub-id-type="pmid">38970241</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cre2.925</pub-id><pub-id pub-id-type="pmcid">PMC11226543</pub-id></mixed-citation></ref><ref id="nop270386-bib-0021"><mixed-citation publication-type="journal" id="nop270386-cit-0021">
+<string-name name-style="western">
+<surname>Hoelscher</surname>, <given-names>S. H.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Pugh</surname>
+</string-name>. <year>2025</year>. “<article-title>N.U.R.S.E.S. Embracing Artificial Intelligence: A Guide to Artificial Intelligence Literacy for the Nursing Profession</article-title>.” <source>Nursing Outlook</source>
+<volume>73</volume>, no. <issue>4</issue>: <elocation-id>102466</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.outlook.2025.102466</pub-id>.<pub-id pub-id-type="pmid">40561583</pub-id>
+</mixed-citation></ref><ref id="nop270386-bib-0022"><mixed-citation publication-type="journal" id="nop270386-cit-0022">
+<string-name name-style="western">
+<surname>Hwang</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Tang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Tu</surname>
+</string-name>. <year>2024</year>. “<article-title>How Artificial Intelligence (AI) Supports Nursing Education: Profiling the Roles, Applications, and Trends of AI in Nursing Education Research (1993–2020)</article-title>.” <source>Interactive Learning Environments</source>
+<volume>32</volume>: <fpage>373</fpage>–<lpage>392</lpage>.</mixed-citation></ref><ref id="nop270386-bib-0023"><mixed-citation publication-type="journal" id="nop270386-cit-0023">
+<string-name name-style="western">
+<surname>Izah</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Sylva</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hait</surname>
+</string-name>. <year>2024</year>. “<article-title>Cronbach's Alpha: A Cornerstone in Ensuring Reliability and Validity in Environmental Health Assessment</article-title>.” <source>ES Energy &amp; Environment</source>
+<volume>23</volume>: <elocation-id>1057</elocation-id>.</mixed-citation></ref><ref id="nop270386-bib-0024"><mixed-citation publication-type="journal" id="nop270386-cit-0024">
+<string-name name-style="western">
+<surname>Karaca</surname>, <given-names>O.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Çalışkan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Demir</surname>
+</string-name>. <year>2021</year>. “<article-title>Medical Artificial Intelligence Readiness Scale for Medical Students (MAIRS‐MS)—Development, Validity and Reliability Study</article-title>.” <source>BMC Medical Education</source>
+<volume>21</volume>: <fpage>112</fpage>.<pub-id pub-id-type="pmid">33602196</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12909-021-02546-6</pub-id><pub-id pub-id-type="pmcid">PMC7890640</pub-id></mixed-citation></ref><ref id="nop270386-bib-0025"><mixed-citation publication-type="journal" id="nop270386-cit-0025">
+<string-name name-style="western">
+<surname>Khodeir</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E. K.</given-names>
+<surname>Al‐oadah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. A.</given-names>
+<surname>Alsweed</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>Perception of Artificial Intelligence in Education at Qassim University</article-title>.” <source>International Journal of Medicine in Developing Countries</source>
+<volume>8</volume>: <fpage>2224</fpage>–<lpage>2231</lpage>.</mixed-citation></ref><ref id="nop270386-bib-0026"><mixed-citation publication-type="journal" id="nop270386-cit-0026">
+<string-name name-style="western">
+<surname>Kwak</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ahn</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Seo</surname>
+</string-name>. <year>2022</year>. “<article-title>Influence of AI Ethics Awareness, Attitude, Anxiety, and Self‐Efficacy on Nursing Students' Behavioral Intentions</article-title>.” <source>BMC Nursing</source>
+<volume>21</volume>: <elocation-id>163</elocation-id>.<pub-id pub-id-type="pmid">36180902</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12912-022-01048-0</pub-id><pub-id pub-id-type="pmcid">PMC9526272</pub-id></mixed-citation></ref><ref id="nop270386-bib-0027"><mixed-citation publication-type="journal" id="nop270386-cit-0027">
+<string-name name-style="western">
+<surname>Lee</surname>, <given-names>D.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Yoon</surname>
+</string-name>. <year>2021</year>. “<article-title>Application of Artificial Intelligence‐Based Technologies in the Healthcare Industry: Opportunities and Challenges</article-title>.” <source>International Journal of Environmental Research and Public Health</source>
+<volume>18</volume>: <elocation-id>271</elocation-id>.<pub-id pub-id-type="pmid">33401373</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph18010271</pub-id><pub-id pub-id-type="pmcid">PMC7795119</pub-id></mixed-citation></ref><ref id="nop270386-bib-0028"><mixed-citation publication-type="journal" id="nop270386-cit-0028">
+<string-name name-style="western">
+<surname>Makubhai</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Pathak</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Chandre</surname>
+</string-name>. <year>2023</year>. “<article-title>Prevention in Healthcare: An Explainable AI Approach</article-title>.” <source>International Journal on Recent and Innovation Trends in Computing and Communication</source>
+<volume>11</volume>: <fpage>92</fpage>–<lpage>100</lpage>.</mixed-citation></ref><ref id="nop270386-bib-0029"><mixed-citation publication-type="journal" id="nop270386-cit-0029">
+<string-name name-style="western">
+<surname>Martinez‐Ortigosa</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Martinez‐Granados</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Gil‐Hernández</surname>
+</string-name>, et al. <year>2023</year>. “<article-title>Applications of Artificial Intelligence in Nursing Care: A Systematic Review</article-title>.” <source>Journal of Nursing Management</source>
+<volume>31</volume>: <fpage>1</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2023/3219127</pub-id><pub-id pub-id-type="pmcid">PMC11919018</pub-id><pub-id pub-id-type="pmid">40225652</pub-id></mixed-citation></ref><ref id="nop270386-bib-0030"><mixed-citation publication-type="miscellaneous" id="nop270386-cit-0030">
+<string-name name-style="western">
+<surname>Minor</surname>, <given-names>S.</given-names>
+</string-name>
+<year>2021</year>. <article-title>“Drive Exponential Growth in Healthcare With Trustworthy AI.”</article-title> IBM. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ibm.com/blog/drive-exponential-growth-in-healthcare-with-trustworthy-ai/" ext-link-type="uri">https://www.ibm.com/blog/drive‐exponential‐growth‐in‐healthcare‐with‐trustworthy‐ai/</ext-link>.</mixed-citation></ref><ref id="nop270386-bib-0031"><mixed-citation publication-type="journal" id="nop270386-cit-0031">
+<string-name name-style="western">
+<surname>Nashwan</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Gharib</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Alhadidi</surname>
+</string-name>, et al. <year>2023</year>. “<article-title>Harnessing Artificial Intelligence: Strategies for Mental Health Nurses in Optimizing Psychiatric Patient Care</article-title>.” <source>Issues in Mental Health Nursing</source>
+<volume>44</volume>: <fpage>1020</fpage>–<lpage>1034</lpage>.<pub-id pub-id-type="pmid">37850937</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/01612840.2023.2263579</pub-id></mixed-citation></ref><ref id="nop270386-bib-0032"><mixed-citation publication-type="journal" id="nop270386-cit-0032">
+<string-name name-style="western">
+<surname>Newlands</surname>, <given-names>A. F.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kramer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Roberts</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Maxwell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Price</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Finlay</surname>
+</string-name>. <year>2023</year>. “<article-title>Confirmatory Structural Validation and Refinement of the Recurrent Urinary Tract Infection Symptom Scale</article-title>.” <source>BJUI Compass</source>
+<volume>5</volume>: <fpage>240</fpage>–<lpage>252</lpage>.<pub-id pub-id-type="pmid">38371201</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/bco2.297</pub-id><pub-id pub-id-type="pmcid">PMC10869661</pub-id></mixed-citation></ref><ref id="nop270386-bib-0033"><mixed-citation publication-type="journal" id="nop270386-cit-0033">
+<string-name name-style="western">
+<surname>Petersson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Larsson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Nygren</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Challenges to Implementing Artificial Intelligence in Healthcare: A Qualitative Interview Study With Healthcare Leaders in Sweden</article-title>.” <source>BMC Health Services Research</source>
+<volume>22</volume>: <elocation-id>899</elocation-id>.<pub-id pub-id-type="pmid">35778736</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12913-022-08215-8</pub-id><pub-id pub-id-type="pmcid">PMC9250210</pub-id></mixed-citation></ref><ref id="nop270386-bib-0034"><mixed-citation publication-type="journal" id="nop270386-cit-0034">
+<string-name name-style="western">
+<surname>Pinto dos Santos</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Giese</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Brodehl</surname>
+</string-name>, et al. <year>2019</year>. “<article-title>Medical Students' Attitude Towards Artificial Intelligence: A Multicentre Survey</article-title>.” <source>European Radiology</source>
+<volume>29</volume>: <fpage>1640</fpage>–<lpage>1646</lpage>.<pub-id pub-id-type="pmid">29980928</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00330-018-5601-1</pub-id></mixed-citation></ref><ref id="nop270386-bib-0035"><mixed-citation publication-type="journal" id="nop270386-cit-0035">
+<string-name name-style="western">
+<surname>Pucchio</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Rathagirishnan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Caton</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Exploration of Exposure to Artificial Intelligence in Undergraduate Medical Education: A Canadian Cross‐Sectional Mixed‐Methods Study</article-title>.” <source>BMC Medical Education</source>
+<volume>22</volume>: <fpage>396</fpage>.<pub-id pub-id-type="pmid">36443720</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12909-022-03896-5</pub-id><pub-id pub-id-type="pmcid">PMC9703803</pub-id></mixed-citation></ref><ref id="nop270386-bib-0036"><mixed-citation publication-type="book" id="nop270386-cit-0036">
+<string-name name-style="western">
+<surname>Rane</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Verma</surname>
+</string-name>, et al. <year>2021</year>. “<part-title>Redacting Sensitive Information From the Data</part-title>.” In <source>2021 International Conference on Smart Generation Computing, Communication and Networking (SMART GENCON)</source>, <fpage>1</fpage>–<lpage>5</lpage>. <publisher-name>IEEE</publisher-name>.</mixed-citation></ref><ref id="nop270386-bib-0037"><mixed-citation publication-type="miscellaneous" id="nop270386-cit-0037">
+<collab collab-type="authors">Raosoft Inc</collab>
+. <year>2004</year>. <article-title>“Sample Size Calculator.”</article-title>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.raosoft.com/samplesize.html" ext-link-type="uri">http://www.raosoft.com/samplesize.html</ext-link>.</mixed-citation></ref><ref id="nop270386-bib-0038"><mixed-citation publication-type="journal" id="nop270386-cit-0038">
+<string-name name-style="western">
+<surname>Rony</surname>, <given-names>M. K. K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ahmad</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. C.</given-names>
+<surname>Das</surname>
+</string-name>, et al. <year>2025</year>. “<article-title>Nursing Students' Perspectives on Integrating Artificial Intelligence Into Clinical Training and Professional Practice: A Qualitative Descriptive Study</article-title>.” <source>Health Science Reports</source>
+<volume>8</volume>: <elocation-id>e70728</elocation-id>.<pub-id pub-id-type="pmid">40260042</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hsr2.70728</pub-id><pub-id pub-id-type="pmcid">PMC12010564</pub-id></mixed-citation></ref><ref id="nop270386-bib-0039"><mixed-citation publication-type="journal" id="nop270386-cit-0039">
+<string-name name-style="western">
+<surname>Saeed</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Saeed</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>AlAhmri</surname>
+</string-name>. <year>2023</year>. “<article-title>Saudi Arabia Health Systems Challenging and Future Transformation With Artificial Intelligence</article-title>.” <source>Cureus</source>
+<volume>15</volume>: <elocation-id>e37826</elocation-id>.<pub-id pub-id-type="pmid">37214025</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7759/cureus.37826</pub-id><pub-id pub-id-type="pmcid">PMC10197987</pub-id></mixed-citation></ref><ref id="nop270386-bib-0040"><mixed-citation publication-type="journal" id="nop270386-cit-0040">
+<string-name name-style="western">
+<surname>Schüffler</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Geneslaw</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yarlagadda</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>Integrated Digital Pathology at Scale: A Solution for Clinical Diagnostics and Cancer Research at a Large Academic Medical Center</article-title>.” <source>Journal of the American Medical Informatics Association</source>
+<volume>28</volume>: <fpage>1874</fpage>–<lpage>1884</lpage>.<pub-id pub-id-type="pmid">34260720</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jamia/ocab085</pub-id><pub-id pub-id-type="pmcid">PMC8344580</pub-id></mixed-citation></ref><ref id="nop270386-bib-0041"><mixed-citation publication-type="journal" id="nop270386-cit-0041">
+<string-name name-style="western">
+<surname>Sit</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Srinivasan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Amlani</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Attitudes and Perceptions of UK Medical Students Towards Artificial Intelligence and Radiology: A Multicentre Survey</article-title>.” <source>Insights Into Imaging</source>
+<volume>11</volume>: <fpage>14</fpage>.<pub-id pub-id-type="pmid">32025951</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13244-019-0830-7</pub-id><pub-id pub-id-type="pmcid">PMC7002761</pub-id></mixed-citation></ref><ref id="nop270386-bib-0042"><mixed-citation publication-type="journal" id="nop270386-cit-0042">
+<string-name name-style="western">
+<surname>Sumengen</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D. O.</given-names>
+<surname>Subasi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. N.</given-names>
+<surname>Cakir</surname>
+</string-name>. <year>2025</year>. “<article-title>Nursing Students' Attitudes and Literacy Toward Artificial Intelligence: A Cross‐Sectional Study</article-title>.” <source>Teaching and Learning in Nursing</source>
+<volume>20</volume>: <fpage>e250</fpage>–<lpage>e257</lpage>.</mixed-citation></ref><ref id="nop270386-bib-0043"><mixed-citation publication-type="book" id="nop270386-cit-0043">
+<string-name name-style="western">
+<surname>Tabachnick</surname>, <given-names>B. G.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>L. S.</given-names>
+<surname>Fidell</surname>
+</string-name>. <year>2018</year>. <source>Using Multivariate Statistics</source>. <edition designator="7">7th ed</edition>. <publisher-name>Pearson</publisher-name>.</mixed-citation></ref><ref id="nop270386-bib-0044"><mixed-citation publication-type="journal" id="nop270386-cit-0044">
+<string-name name-style="western">
+<surname>Tang</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K. K.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. O.</given-names>
+<surname>Kwok</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Luong</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Tam</surname>
+</string-name>. <year>2024</year>. “<article-title>The Importance of Transparency: Declaring the Use of Generative Artificial Intelligence (AI) in Academic Writing</article-title>.” <source>Journal of Nursing Scholarship</source>
+<volume>56</volume>: <fpage>314</fpage>–<lpage>318</lpage>.<pub-id pub-id-type="pmid">37904646</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jnu.12938</pub-id></mixed-citation></ref><ref id="nop270386-bib-0045"><mixed-citation publication-type="journal" id="nop270386-cit-0045">
+<string-name name-style="western">
+<surname>Taşkiran</surname>, <given-names>N.</given-names>
+</string-name>
+<year>2023</year>. “<article-title>Effect of Artificial Intelligence Course in Nursing on Students' Medical Artificial Intelligence Readiness</article-title>.” <source>Nurse Educator</source>
+<volume>48</volume>: <fpage>E147</fpage>–<lpage>E152</lpage>.<pub-id pub-id-type="pmid">37133231</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/NNE.0000000000001446</pub-id></mixed-citation></ref><ref id="nop270386-bib-0046"><mixed-citation publication-type="journal" id="nop270386-cit-0046">
+<string-name name-style="western">
+<surname>Yalcinkaya</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ergin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Yucel</surname>
+</string-name>. <year>2024</year>. “<article-title>Exploring Nursing Students' Attitudes and Readiness for Artificial Intelligence: A Cross‐Sectional Study</article-title>.” <source>Teaching and Learning in Nursing</source>
+<volume>19</volume>: <fpage>e722</fpage>–<lpage>e728</lpage>.</mixed-citation></ref><ref id="nop270386-bib-0047"><mixed-citation publication-type="journal" id="nop270386-cit-0047">
+<string-name name-style="western">
+<surname>Yang</surname>, <given-names>Y.</given-names>
+</string-name>
+<year>2024</year>. “<article-title>Influences of Digital Literacy and Moral Sensitivity on Artificial Intelligence Ethics Awareness Among Nursing Students</article-title>.” <source>Healthcare (Basel)</source>
+<volume>12</volume>, no. <issue>21</issue>: <elocation-id>2172</elocation-id>.<pub-id pub-id-type="pmid">39517384</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/healthcare12212172</pub-id><pub-id pub-id-type="pmcid">PMC11545396</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,50 @@
+[
+  {
+    "example_id": "CUSTOM_004",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "method",
+    "correct": false,
+    "citation_context": "Finally, natural language processing (NLP) is a specialized integration of classical machine learning, deep learning, and computational linguistics. It allows computers to comprehend and process human language in both spoken and written forms. One of the most widely used models in NLP is the neural network, which simulates the biological functions of human neurons. These networks perform mathematical operations to process and share information in a way that mirrors the functioning of neurons in the brain(15)."
+  },
+  {
+    "example_id": "CUSTOM_005",
+    "topic": "ai_healthcare",
+    "human_label": "method",
+    "prediction": "background",
+    "correct": false,
+    "citation_context": "The evidence presented directly answers the review’s objective and the guiding question. As recommended by Peters et al. (2020)(16), the presentation of results was synthesized in narrative form, which map or describe the results found on the topic studied."
+  },
+  {
+    "example_id": "CUSTOM_015",
+    "topic": "ai_healthcare",
+    "human_label": "background",
+    "prediction": "method",
+    "correct": false,
+    "citation_context": "A systematic review compares the predicted accuracy of ML algorithms to traditional clinical choices in AMS for both inpatient and outpatient settings. AI algorithms have proven helpful in various settings, including detecting incorrect prescriptions, choosing suitable antimicrobials, inspecting prophylactic procedures, predicting the risk of resistance, and evaluating treatment results. Random forest models were very effective at predicting antimicrobial susceptibility. The results demonstrate how AI can assist AMS in optimizing the use of antimicrobials and enhancing patient outcomes. The authors recommend more research and validation to ensure that AI models are applicable and practical across different healthcare conditions [21]."
+  },
+  {
+    "example_id": "CUSTOM_016",
+    "topic": "cancer_immunotherapy",
+    "human_label": "result",
+    "prediction": "method",
+    "correct": false,
+    "citation_context": "To validate whether the pandemic genuinely accelerated these trends, we conducted a comparative analysis with the bibliometric study by Li et al. (2023), which incorporates pre-pandemic data (up to 2019) [28]. The results indicate that while international collaboration was steadily growing before the pandemic, it underwent a structural qualitative shift post-2020, characterized by the rapid formation of a tight collaborative network centered on China, the US, and Canada. More strikingly, the tumor microenvironment (TME) evolved from a nascent theme in the pre-pandemic era into a definitive research core after 2021, with its keyword frequency and cluster centrality showing explosive growth.This quantitative and qualitative evidence collectively suggests that the pandemic acted as a key catalyst in accelerating these structural transformations."
+  },
+  {
+    "example_id": "CUSTOM_034",
+    "topic": "climate_health",
+    "human_label": "result",
+    "prediction": "background",
+    "correct": false,
+    "citation_context": "Participants described a variety of ways to encourage people to take climate action. They emphasised the value of fusing local and global initiatives to build into something more global over time. This is in line with climate governance as a decentralized multi-level bottom-up approach [68] where multiple centres of local decision-making can contribute to more effective global climate governance."
+  },
+  {
+    "example_id": "CUSTOM_035",
+    "topic": "climate_health",
+    "human_label": "result",
+    "prediction": "background",
+    "correct": false,
+    "citation_context": "Finally, the young people emphasized that the responsibility for addressing climate change lies with us all, from families and educators to governments and celebrities. They stressed the need for everyone to work together, supported by government policies and judicial reforms. They reported that climate change action needs collaboration which aligns with studies showing the need for combining individual and policy-driven approaches [69]."
+  }
+]

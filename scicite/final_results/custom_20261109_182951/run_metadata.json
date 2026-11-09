@@ -1,0 +1,13 @@
+{
+  "annotation_sha256": "0e7da3a5f7a9f4059f8be0d9e9ad8281b36f52a6eeeafbbe2823ccce29626a72",
+  "included_examples": 45,
+  "excluded_examples": 0,
+  "label_counts": {
+    "background": 35,
+    "method": 6,
+    "result": 4
+  },
+  "python_executable": "D:\\Python_venvs\\COMP8240\\Scripts\\python.exe",
+  "model": "H:\\Other computers\\My PC\\Macquarie University\\2026_Session_2\\COMP8240\\scicite\\models\\scicite.tar.gz",
+  "note": "Gold labels withheld from inference; local IDs used for alignment."
+}

@@ -1,0 +1,23 @@
+{
+  "n": 45,
+  "verdict_counts": {
+    "correct": 38,
+    "incorrect": 7
+  },
+  "preferred_label_agreement_count": 44,
+  "preferred_label_agreement": 0.9777777777777777,
+  "preferred_label_cohen_kappa": 0.9422336328626443,
+  "correctness_comparison": {
+    "human_correct/correct": 38,
+    "human_incorrect/incorrect": 6,
+    "human_correct/incorrect": 1
+  },
+  "disagreements": [
+    "CUSTOM_008"
+  ],
+  "limitations": [
+    "Human-LLM agreement, not human inter-annotator reliability.",
+    "Judge saw model predictions, so preferred labels are not independent blind classifications."
+  ],
+  "format_repair": "Decoded HTML space entities and removed backslashes immediately before newlines. Original responses unchanged."
+}

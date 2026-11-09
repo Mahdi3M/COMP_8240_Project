@@ -1,0 +1,92 @@
+[
+  {
+    "example_id": "CUSTOM_001",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation supports general claims about AI's potential benefits for healthcare accessibility, efficiency, sustainability, and equity. It provides contextual information rather than a method or comparison of study findings."
+  },
+  {
+    "example_id": "CUSTOM_002",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation provides historical background on the development of AI, including Boole's logical reasoning and the Turing machine. No method is adopted or research findings compared."
+  },
+  {
+    "example_id": "CUSTOM_003",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation explains the concept of machine learning and how algorithms learn from training data. It does not indicate that the citing study implements the described technique."
+  },
+  {
+    "example_id": "CUSTOM_004",
+    "verdict": "incorrect",
+    "preferred_label": "background",
+    "reason": "The citation explains NLP and neural networks as general technological concepts. There is no indication that the citing study uses or adapts these techniques."
+  },
+  {
+    "example_id": "CUSTOM_005",
+    "verdict": "incorrect",
+    "preferred_label": "method",
+    "reason": "The citing review explicitly follows Peters et al.'s recommendation to synthesize and present its results in narrative form, indicating adoption of a methodological guideline."
+  },
+  {
+    "example_id": "CUSTOM_006",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation reports a prior study's observation about anthropomorphism and trust among demographic groups. It does not connect that observation to the citing study's own findings."
+  },
+  {
+    "example_id": "CUSTOM_007",
+    "verdict": "correct",
+    "preferred_label": "method",
+    "reason": "The citing study explicitly follows cited guidelines to exclude questionnaire items with a CVR below 0.80, directly applying an operational criterion to its item-selection procedure."
+  },
+  {
+    "example_id": "CUSTOM_008",
+    "verdict": "incorrect",
+    "preferred_label": "result",
+    "reason": "The citing study connects its own finding of higher female participation with findings from previous research on gender differences in survey response rates. The citation helps interpret and contextualize the study's observed result."
+  },
+  {
+    "example_id": "CUSTOM_009",
+    "verdict": "correct",
+    "preferred_label": "method",
+    "reason": "The study explicitly states that its research procedures adhered to the ethical standards of the cited Declaration of Helsinki, demonstrating application of an established procedural guideline."
+  },
+  {
+    "example_id": "CUSTOM_010",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation provides general statistics and projections concerning the adoption of AI technologies in mental healthcare. These contextual claims are not compared with the citing study's findings."
+  },
+  {
+    "example_id": "CUSTOM_011",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation supports market forecasts and broader trends in digital mental health solutions. It supplies contextual information rather than a research procedure or a comparison of findings."
+  },
+  {
+    "example_id": "CUSTOM_012",
+    "verdict": "correct",
+    "preferred_label": "method",
+    "reason": "The citing study calculates content validity indices and references established acceptance thresholds for I-CVI and S-CVI/Ave. The citation supplies operational standards used to evaluate the study's measurement scale."
+  },
+  {
+    "example_id": "CUSTOM_013",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation supports a conceptual discussion of AI as a tool for augmenting clinical judgment and improving healthcare. It does not establish methodological adoption or compare empirical findings."
+  },
+  {
+    "example_id": "CUSTOM_014",
+    "verdict": "correct",
+    "preferred_label": "background",
+    "reason": "The citation supports general claims about the capabilities and benefits of AI in antimicrobial stewardship and precision medicine. Although the passage discusses a review, it does not explicitly compare the review's own findings with those of the cited work."
+  },
+  {
+    "example_id": "CUSTOM_015",
+    "verdict": "incorrect",
+    "preferred_label": "background",
+    "reason": "The passage summarizes another systematic review's findings about machine learning algorithms in antimicrobial stewardship, including random forest performance and recommendations for further validation. It does not indicate that the citing study adopts the review's methods or compares those findings with its own results."
+  }
+]
